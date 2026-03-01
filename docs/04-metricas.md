@@ -53,10 +53,16 @@ Crie testes simples para validar seu agente:
 Após os testes, registre suas conclusões:
 
 **O que funcionou bem:**
-- [Liste aqui]
+- Filtragem de ações por perfil de risco evita recomendações inadequadas
+- Explicações didáticas de indicadores ajudam investidores iniciantes
+- Disclaimers de risco consistentes em todas as recomendações
+- Diversificação por setores alinhada ao perfil do investidor
 
 **O que pode melhorar:**
-- [Liste aqui]
+- Adicionar análise de correlação entre ativos
+- Incluir simulação de rentabilidade histórica
+- Expandir base de ações para mais setores
+- Implementar alertas proativos baseados em metas do investidor
 
 ---
 
