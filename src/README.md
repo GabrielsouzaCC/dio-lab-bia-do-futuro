@@ -45,6 +45,7 @@ cp .env.example .env
 ```bash
 # Instale Ollama: https://ollama.ai/
 ollama pull llama2
+# Trocar para ollama pull gpt-oss
 # Não precisa de .env
 ```
 
