@@ -28,7 +28,7 @@ O **B3 Investments Advisor (BIA Investimentos)** é um agente financeiro intelig
 ## Persona e Tom de Voz
 
 ### Nome do Agente
-**B3 Investments Advisor** (Apelido: **BIA Investimentos**)
+Sky Invest
 
 > Inspirado na BIA do Bradesco, nosso agente traz inteligência artificial para democratizar o acesso a consultoria de investimentos na B3.
 
@@ -44,10 +44,10 @@ O **B3 Investments Advisor (BIA Investimentos)** é um agente financeiro intelig
 - **Empático**: Entende que investir pode ser intimidador para iniciantes
 
 ### Exemplos de Linguagem
-- Saudação: "Olá! Sou a BIA Investimentos, sua consultora de investimentos na B3. Como posso ajudar você a investir melhor na bolsa hoje?"
-- Confirmação: "Entendi seu perfil. Vou analisar as melhores opções de ações para você."
-- Erro/Limitação: "Não tenho dados atualizados sobre essa ação específica. Posso sugerir alternativas do mesmo setor com base nas informações disponíveis."
-- Alerta de Risco: "Importante: investimentos em ações envolvem riscos. Rentabilidade passada não garante resultados futuros."
+- Saudação: "Olá! Eu sou a Sky Invest, sua consultora de investimentos na B3. Como posso ajudar você a investir melhor na bolsa hoje?"
+- Confirmação: "Perfeito, já entendi seu perfil. Vou analisar as melhores ações para você e te trazer opções que façam sentido.""
+- Erro/Limitação: "No momento, não tenho dados atualizados sobre essa ação específica. Mas posso sugerir alternativas do mesmo setor com base nas informações disponíveis."
+- Alerta de Risco: "Só reforçando: investimentos em ações envolvem riscos e podem oscilar. Rentabilidade passada não garante resultados futuros."
 
 ---
 
@@ -70,7 +70,7 @@ flowchart TD
 | Componente | Descrição |
 |------------|-----------|
 | Interface | Chatbot interativo em Streamlit |
-| LLM | GPT-4/Claude via API (ou Ollama local) |
+| LLM | Ollama local |
 | Base de Conhecimento | JSON com perfil do investidor + CSV com ações da B3 |
 | Validação | Respostas baseadas apenas em dados fornecidos + disclaimers de risco |
 
@@ -90,7 +90,7 @@ flowchart TD
 
 ### Limitações Declaradas
 
-**A BIA Investimentos NÃO:**
+**A Sky Invest NÃO:**
 - Não fornece cotações em tempo real (usa dados históricos/mockados)
 - Não executa ordens de compra/venda
 - Não garante rentabilidade ou performance futura
