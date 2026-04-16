@@ -6,7 +6,7 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 
 | Arquivo | Formato | Utilização no Agente |
 |---------|---------|---------------------|
-| `acoes_b3.json` | JSON | Base de ações da B3 com indicadores fundamentalistas |
+| `acoes_b3.json` | JSON | Base de ações da B3 |
 | `perfil_investidor.json` | JSON | Perfil de risco e objetivos do investidor |
 | `transacoes.csv` | CSV | Histórico financeiro para análise de capacidade de investimento |
 | `historico_atendimento.csv` | CSV | Contexto de interações anteriores |
