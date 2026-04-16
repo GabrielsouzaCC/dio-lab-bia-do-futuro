@@ -1,158 +1,2739 @@
 [
   {
-    "ticker": "PETR4",
-    "nome": "Petrobras PN",
-    "setor": "Petróleo e Gás",
-    "preco_atual": 38.50,
-    "p_l": 4.2,
-    "roe": 28.5,
-    "dividend_yield": 12.8,
-    "volatilidade": "média",
-    "risco": "médio",
-    "indicado_para": "moderado e arrojado",
-    "descricao": "Maior empresa de energia do Brasil, com forte geração de caixa e dividendos"
+    "Ticker":"MBRF3",
+    "Nome":"Marfrig",
+    "Negócios":98783600.0,
+    "Última (R$)":19.6,
+    "Variação":-0.1038
   },
   {
-    "ticker": "VALE3",
-    "nome": "Vale ON",
-    "setor": "Mineração",
-    "preco_atual": 62.80,
-    "p_l": 5.1,
-    "roe": 22.3,
-    "dividend_yield": 10.5,
-    "volatilidade": "alta",
-    "risco": "médio-alto",
-    "indicado_para": "moderado e arrojado",
-    "descricao": "Maior mineradora das Américas, exposta ao preço do minério de ferro"
+    "Ticker":"RDOR3",
+    "Nome":"Rede D'Or",
+    "Negócios":81869100.0,
+    "Última (R$)":40.0,
+    "Variação":-0.0568
   },
   {
-    "ticker": "ITUB4",
-    "nome": "Itaú Unibanco PN",
-    "setor": "Financeiro",
-    "preco_atual": 28.90,
-    "p_l": 7.8,
-    "roe": 18.5,
-    "dividend_yield": 5.2,
-    "volatilidade": "baixa",
-    "risco": "baixo",
-    "indicado_para": "conservador, moderado e arrojado",
-    "descricao": "Maior banco privado do Brasil, com histórico consistente de lucros"
+    "Ticker":"PETR4",
+    "Nome":"Petrobras",
+    "Negócios":61852100.0,
+    "Última (R$)":46.89,
+    "Variação":-0.0207
   },
   {
-    "ticker": "BBDC4",
-    "nome": "Bradesco PN",
-    "setor": "Financeiro",
-    "preco_atual": 14.20,
-    "p_l": 6.5,
-    "roe": 15.2,
-    "dividend_yield": 6.8,
-    "volatilidade": "baixa",
-    "risco": "baixo",
-    "indicado_para": "conservador, moderado e arrojado",
-    "descricao": "Um dos maiores bancos do país, com forte presença no varejo"
+    "Ticker":"B3SA3",
+    "Nome":"B3",
+    "Negócios":39081700.0,
+    "Última (R$)":19.84,
+    "Variação":0.0081
   },
   {
-    "ticker": "WEGE3",
-    "nome": "WEG ON",
-    "setor": "Indústria",
-    "preco_atual": 42.30,
-    "p_l": 28.5,
-    "roe": 24.8,
-    "dividend_yield": 1.8,
-    "volatilidade": "média",
-    "risco": "médio",
-    "indicado_para": "moderado e arrojado",
-    "descricao": "Líder em equipamentos elétricos, com forte crescimento internacional"
+    "Ticker":"BBDC4",
+    "Nome":"Banco Bradesco",
+    "Negócios":37389800.0,
+    "Última (R$)":20.8,
+    "Variação":0.001
   },
   {
-    "ticker": "BBAS3",
-    "nome": "Banco do Brasil ON",
-    "setor": "Financeiro",
-    "preco_atual": 26.50,
-    "p_l": 5.2,
-    "roe": 16.8,
-    "dividend_yield": 8.5,
-    "volatilidade": "baixa",
-    "risco": "baixo",
-    "indicado_para": "conservador, moderado e arrojado",
-    "descricao": "Maior banco estatal, com forte presença no agronegócio"
+    "Ticker":"BBAS3",
+    "Nome":"Banco do Brasil",
+    "Negócios":36240900.0,
+    "Última (R$)":24.4,
+    "Variação":-0.0386
   },
   {
-    "ticker": "ABEV3",
-    "nome": "Ambev ON",
-    "setor": "Consumo",
-    "preco_atual": 11.80,
-    "p_l": 15.2,
-    "roe": 18.5,
-    "dividend_yield": 4.5,
-    "volatilidade": "baixa",
-    "risco": "baixo",
-    "indicado_para": "conservador, moderado e arrojado",
-    "descricao": "Maior cervejaria da América Latina, empresa defensiva"
+    "Ticker":"COGN3",
+    "Nome":"Cogna",
+    "Negócios":30020200.0,
+    "Última (R$)":3.29,
+    "Variação":0.003
   },
   {
-    "ticker": "MGLU3",
-    "nome": "Magazine Luiza ON",
-    "setor": "Varejo",
-    "preco_atual": 3.20,
-    "p_l": 45.0,
-    "roe": 8.2,
-    "dividend_yield": 0.5,
-    "volatilidade": "muito alta",
-    "risco": "alto",
-    "indicado_para": "arrojado",
-    "descricao": "Varejista digital em transformação, alto potencial mas volátil"
+    "Ticker":"ITSA4",
+    "Nome":"Itaúsa",
+    "Negócios":29788400.0,
+    "Última (R$)":15.0,
+    "Variação":0.0115
   },
   {
-    "ticker": "RENT3",
-    "nome": "Localiza ON",
-    "setor": "Serviços",
-    "preco_atual": 52.40,
-    "p_l": 18.5,
-    "roe": 12.5,
-    "dividend_yield": 2.1,
-    "volatilidade": "média",
-    "risco": "médio",
-    "indicado_para": "moderado e arrojado",
-    "descricao": "Líder em locação de veículos e gestão de frotas"
+    "Ticker":"ITUB4",
+    "Nome":"Itaú Unibanco",
+    "Negócios":28907200.0,
+    "Última (R$)":47.04,
+    "Variação":0.011
   },
   {
-    "ticker": "ELET3",
-    "nome": "Eletrobras ON",
-    "setor": "Energia Elétrica",
-    "preco_atual": 38.90,
-    "p_l": 8.5,
-    "roe": 14.2,
-    "dividend_yield": 7.2,
-    "volatilidade": "média",
-    "risco": "médio",
-    "indicado_para": "conservador e moderado",
-    "descricao": "Maior geradora de energia do Brasil, recém privatizada"
+    "Ticker":"ABEV3",
+    "Nome":"Ambev",
+    "Negócios":24739300.0,
+    "Última (R$)":15.83,
+    "Variação":-0.0038
   },
   {
-    "ticker": "SUZB3",
-    "nome": "Suzano ON",
-    "setor": "Papel e Celulose",
-    "preco_atual": 56.70,
-    "p_l": 12.8,
-    "roe": 15.8,
-    "dividend_yield": 3.5,
-    "volatilidade": "média",
-    "risco": "médio",
-    "indicado_para": "moderado e arrojado",
-    "descricao": "Maior produtora de celulose do mundo, exportadora"
+    "Ticker":"VALE3",
+    "Nome":"Vale",
+    "Negócios":24527300.0,
+    "Última (R$)":88.44,
+    "Variação":0.0016
   },
   {
-    "ticker": "TAEE11",
-    "nome": "Taesa UNT",
-    "setor": "Energia Elétrica",
-    "preco_atual": 34.20,
-    "p_l": 10.5,
-    "roe": 16.5,
-    "dividend_yield": 9.8,
-    "volatilidade": "baixa",
-    "risco": "baixo",
-    "indicado_para": "conservador e moderado",
-    "descricao": "Transmissora de energia com receita previsível e bons dividendos"
+    "Ticker":"ENEV3",
+    "Nome":"Eneva",
+    "Negócios":18499100.0,
+    "Última (R$)":27.27,
+    "Variação":0.0048
+  },
+  {
+    "Ticker":"CSAN3",
+    "Nome":"Cosan",
+    "Negócios":17742600.0,
+    "Última (R$)":5.49,
+    "Variação":-0.0018
+  },
+  {
+    "Ticker":"CPLE3",
+    "Nome":"Copel",
+    "Negócios":17391100.0,
+    "Última (R$)":16.83,
+    "Variação":-0.0059
+  },
+  {
+    "Ticker":"CVCB3",
+    "Nome":"CVC",
+    "Negócios":17225100.0,
+    "Última (R$)":2.01,
+    "Variação":0.0203
+  },
+  {
+    "Ticker":"CMIG4",
+    "Nome":"Cemig",
+    "Negócios":16491900.0,
+    "Última (R$)":13.64,
+    "Variação":-0.0007
+  },
+  {
+    "Ticker":"PETR3",
+    "Nome":"Petrobras",
+    "Negócios":15626300.0,
+    "Última (R$)":51.5,
+    "Variação":-0.0194
+  },
+  {
+    "Ticker":"WEGE3",
+    "Nome":"WEG",
+    "Negócios":14915400.0,
+    "Última (R$)":49.96,
+    "Variação":-0.0374
+  },
+  {
+    "Ticker":"BEEF3",
+    "Nome":"Minerva",
+    "Negócios":14642700.0,
+    "Última (R$)":4.18,
+    "Variação":-0.0118
+  },
+  {
+    "Ticker":"EQTL3",
+    "Nome":"Equatorial Energia",
+    "Negócios":14546000.0,
+    "Última (R$)":45.35,
+    "Variação":0.0069
+  },
+  {
+    "Ticker":"VAMO3",
+    "Nome":"Grupo Vamos",
+    "Negócios":14204900.0,
+    "Última (R$)":4.29,
+    "Variação":0.019
+  },
+  {
+    "Ticker":"AXIA3",
+    "Nome":"Axia Energia",
+    "Negócios":14169200.0,
+    "Última (R$)":66.27,
+    "Variação":-0.0131
+  },
+  {
+    "Ticker":"VBBR3",
+    "Nome":"Vibra Energia",
+    "Negócios":13035400.0,
+    "Última (R$)":34.2,
+    "Variação":0.028
+  },
+  {
+    "Ticker":"BRAV3",
+    "Nome":"3R Petroleum",
+    "Negócios":12972200.0,
+    "Última (R$)":21.23,
+    "Variação":0.0038
+  },
+  {
+    "Ticker":"MGLU3",
+    "Nome":"Magazine Luiza",
+    "Negócios":12868500.0,
+    "Última (R$)":9.39,
+    "Variação":0.0151
+  },
+  {
+    "Ticker":"RAIZ4",
+    "Nome":"Raízen",
+    "Negócios":12690800.0,
+    "Última (R$)":0.57,
+    "Variação":-0.0172
+  },
+  {
+    "Ticker":"LREN3",
+    "Nome":"Lojas Renner",
+    "Negócios":12448800.0,
+    "Última (R$)":15.6,
+    "Variação":-0.0045
+  },
+  {
+    "Ticker":"GGBR4",
+    "Nome":"Gerdau",
+    "Negócios":12007400.0,
+    "Última (R$)":21.8,
+    "Variação":0.0093
+  },
+  {
+    "Ticker":"PRIO3",
+    "Nome":"PetroRio",
+    "Negócios":11933800.0,
+    "Última (R$)":63.19,
+    "Variação":-0.029
+  },
+  {
+    "Ticker":"USIM5",
+    "Nome":"Usiminas",
+    "Negócios":11906900.0,
+    "Última (R$)":6.98,
+    "Variação":-0.0071
+  },
+  {
+    "Ticker":"ASAI3",
+    "Nome":"Assaí",
+    "Negócios":11454700.0,
+    "Última (R$)":10.16,
+    "Variação":0.001
+  },
+  {
+    "Ticker":"POMO4",
+    "Nome":"Marcopolo",
+    "Negócios":11371000.0,
+    "Última (R$)":6.85,
+    "Variação":-0.013
+  },
+  {
+    "Ticker":"SUZB3",
+    "Nome":"Suzano",
+    "Negócios":11085200.0,
+    "Última (R$)":47.83,
+    "Variação":-0.014
+  },
+  {
+    "Ticker":"HAPV3",
+    "Nome":"Hapvida",
+    "Negócios":10972400.0,
+    "Última (R$)":12.65,
+    "Variação":-0.0307
+  },
+  {
+    "Ticker":"BBSE3",
+    "Nome":"BB Seguridade",
+    "Negócios":10954300.0,
+    "Última (R$)":35.05,
+    "Variação":-0.019
+  },
+  {
+    "Ticker":"PLPL3",
+    "Nome":"Plano&Plano",
+    "Negócios":10804100.0,
+    "Última (R$)":13.4,
+    "Variação":-0.029
+  },
+  {
+    "Ticker":"RAIL3",
+    "Nome":"Rumo",
+    "Negócios":10354300.0,
+    "Última (R$)":16.96,
+    "Variação":0.0024
+  },
+  {
+    "Ticker":"PCAR3",
+    "Nome":"Grupo Pão de Açúcar",
+    "Negócios":10104100.0,
+    "Última (R$)":2.31,
+    "Variação":-0.0723
+  },
+  {
+    "Ticker":"ONCO3",
+    "Nome":"Oncoclínicas",
+    "Negócios":9923500.0,
+    "Última (R$)":1.39,
+    "Variação":0.0775
+  },
+  {
+    "Ticker":"AMER3",
+    "Nome":"Americanas",
+    "Negócios":9634500.0,
+    "Última (R$)":7.4,
+    "Variação":0.0221
+  },
+  {
+    "Ticker":"MOTV3",
+    "Nome":"Motiva",
+    "Negócios":9410900.0,
+    "Última (R$)":17.58,
+    "Variação":0.0029
+  },
+  {
+    "Ticker":"ALOS3",
+    "Nome":"Allos",
+    "Negócios":9195800.0,
+    "Última (R$)":33.57,
+    "Variação":0.0081
+  },
+  {
+    "Ticker":"RADL3",
+    "Nome":"RaiaDrogasil",
+    "Negócios":9143900.0,
+    "Última (R$)":24.06,
+    "Variação":-0.0054
+  },
+  {
+    "Ticker":"RENT3",
+    "Nome":"Localiza",
+    "Negócios":8813300.0,
+    "Última (R$)":51.94,
+    "Variação":0.0186
+  },
+  {
+    "Ticker":"MRVE3",
+    "Nome":"MRV",
+    "Negócios":8773600.0,
+    "Última (R$)":7.82,
+    "Variação":-0.0114
+  },
+  {
+    "Ticker":"CSNA3",
+    "Nome":"Siderúrgica Nacional",
+    "Negócios":8756700.0,
+    "Última (R$)":6.64,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"GMAT3",
+    "Nome":"Grupo Mateus",
+    "Negócios":8378400.0,
+    "Última (R$)":4.84,
+    "Variação":0.0041
+  },
+  {
+    "Ticker":"CEAB3",
+    "Nome":"C&A",
+    "Negócios":8263400.0,
+    "Última (R$)":13.2,
+    "Variação":-0.0008
+  },
+  {
+    "Ticker":"CXSE3",
+    "Nome":"Caixa Seguridade",
+    "Negócios":8220900.0,
+    "Última (R$)":18.86,
+    "Variação":-0.0455
+  },
+  {
+    "Ticker":"SBFG3",
+    "Nome":"Grupo SBF",
+    "Negócios":8112200.0,
+    "Última (R$)":12.98,
+    "Variação":0.0204
+  },
+  {
+    "Ticker":"BPAC11",
+    "Nome":"Banco BTG Pactual",
+    "Negócios":7588000.0,
+    "Última (R$)":64.33,
+    "Variação":0.0171
+  },
+  {
+    "Ticker":"ANIM3",
+    "Nome":"Ânima Educação",
+    "Negócios":7116200.0,
+    "Última (R$)":4.41,
+    "Variação":0.028
+  },
+  {
+    "Ticker":"CYRE3",
+    "Nome":"Cyrela",
+    "Negócios":7090000.0,
+    "Última (R$)":27.6,
+    "Variação":-0.0143
+  },
+  {
+    "Ticker":"GOAU4",
+    "Nome":"Metalúrgica Gerdau",
+    "Negócios":7072700.0,
+    "Última (R$)":9.51,
+    "Variação":-0.0021
+  },
+  {
+    "Ticker":"BRKM5",
+    "Nome":"Braskem",
+    "Negócios":6781800.0,
+    "Última (R$)":9.25,
+    "Variação":-0.058
+  },
+  {
+    "Ticker":"CMIN3",
+    "Nome":"CSN Mineração",
+    "Negócios":6683800.0,
+    "Última (R$)":5.01,
+    "Variação":-0.0118
+  },
+  {
+    "Ticker":"BBDC3",
+    "Nome":"Banco Bradesco",
+    "Negócios":6563500.0,
+    "Última (R$)":17.99,
+    "Variação":-0.0017
+  },
+  {
+    "Ticker":"KLBN11",
+    "Nome":"Klabin",
+    "Negócios":6397700.0,
+    "Última (R$)":19.16,
+    "Variação":-0.0189
+  },
+  {
+    "Ticker":"SMFT3",
+    "Nome":"Smart Fit",
+    "Negócios":5985600.0,
+    "Última (R$)":18.58,
+    "Variação":-0.0221
+  },
+  {
+    "Ticker":"JHSF3",
+    "Nome":"JHSF",
+    "Negócios":5901300.0,
+    "Última (R$)":13.15,
+    "Variação":0.0069
+  },
+  {
+    "Ticker":"DIRR3",
+    "Nome":"Direcional",
+    "Negócios":5684700.0,
+    "Última (R$)":14.37,
+    "Variação":-0.0231
+  },
+  {
+    "Ticker":"LWSA3",
+    "Nome":"Locaweb",
+    "Negócios":5467600.0,
+    "Última (R$)":4.15,
+    "Variação":0.0533
+  },
+  {
+    "Ticker":"PMAM3",
+    "Nome":"Paranapanema",
+    "Negócios":5440900.0,
+    "Última (R$)":0.66,
+    "Variação":0.0312
+  },
+  {
+    "Ticker":"ECOR3",
+    "Nome":"EcoRodovias",
+    "Negócios":5280900.0,
+    "Última (R$)":10.2,
+    "Variação":-0.001
+  },
+  {
+    "Ticker":"AURE3",
+    "Nome":"Auren Energia",
+    "Negócios":5165000.0,
+    "Última (R$)":14.25,
+    "Variação":0.0208
+  },
+  {
+    "Ticker":"NATU3",
+    "Nome":"NATURA",
+    "Negócios":5129500.0,
+    "Última (R$)":10.25,
+    "Variação":-0.0144
+  },
+  {
+    "Ticker":"UGPA3",
+    "Nome":"Ultrapar",
+    "Negócios":5102000.0,
+    "Última (R$)":30.69,
+    "Variação":0.0182
+  },
+  {
+    "Ticker":"SBSP3",
+    "Nome":"Sabesp",
+    "Negócios":5030100.0,
+    "Última (R$)":170.49,
+    "Variação":0.009
+  },
+  {
+    "Ticker":"SIMH3",
+    "Nome":"Simpar",
+    "Negócios":4908200.0,
+    "Última (R$)":11.31,
+    "Variação":-0.0096
+  },
+  {
+    "Ticker":"TOTS3",
+    "Nome":"Totvs",
+    "Negócios":4819000.0,
+    "Última (R$)":35.28,
+    "Variação":0.0138
+  },
+  {
+    "Ticker":"EMBJ3",
+    "Nome":"Embraer",
+    "Negócios":4704000.0,
+    "Última (R$)":85.78,
+    "Variação":-0.0142
+  },
+  {
+    "Ticker":"AZTE3",
+    "Nome":"AZT Energia",
+    "Negócios":4700600.0,
+    "Última (R$)":0.41,
+    "Variação":-0.0238
+  },
+  {
+    "Ticker":"TIMS3",
+    "Nome":"TIM",
+    "Negócios":4624000.0,
+    "Última (R$)":27.33,
+    "Variação":0.0033
+  },
+  {
+    "Ticker":"SLCE3",
+    "Nome":"SLC Agrícola",
+    "Negócios":4594200.0,
+    "Última (R$)":18.35,
+    "Variação":-0.0502
+  },
+  {
+    "Ticker":"FLRY3",
+    "Nome":"Fleury",
+    "Negócios":4467400.0,
+    "Última (R$)":17.05,
+    "Variação":-0.0356
+  },
+  {
+    "Ticker":"PGMN3",
+    "Nome":"Pague Menos",
+    "Negócios":4372000.0,
+    "Última (R$)":5.89,
+    "Variação":0.0034
+  },
+  {
+    "Ticker":"CURY3",
+    "Nome":"Cury",
+    "Negócios":4333300.0,
+    "Última (R$)":35.06,
+    "Variação":-0.0365
+  },
+  {
+    "Ticker":"SANB11",
+    "Nome":"Banco Santander",
+    "Negócios":4085800.0,
+    "Última (R$)":31.68,
+    "Variação":-0.0122
+  },
+  {
+    "Ticker":"TEND3",
+    "Nome":"Construtora Tenda",
+    "Negócios":4064800.0,
+    "Última (R$)":33.83,
+    "Variação":-0.0265
+  },
+  {
+    "Ticker":"CSMG3",
+    "Nome":"COPASA",
+    "Negócios":4055900.0,
+    "Última (R$)":57.66,
+    "Variação":-0.0009
+  },
+  {
+    "Ticker":"AZEV4",
+    "Nome":"Azevedo & Travassos",
+    "Negócios":4042900.0,
+    "Última (R$)":0.13,
+    "Variação":-0.0714
+  },
+  {
+    "Ticker":"RCSL4",
+    "Nome":"Recrusul",
+    "Negócios":3997200.0,
+    "Última (R$)":0.7,
+    "Variação":-0.0541
+  },
+  {
+    "Ticker":"VIVT3",
+    "Nome":"Vivo",
+    "Negócios":3914400.0,
+    "Última (R$)":41.79,
+    "Variação":0.0087
+  },
+  {
+    "Ticker":"ISAE4",
+    "Nome":"ISA Energia",
+    "Negócios":3905300.0,
+    "Última (R$)":31.77,
+    "Variação":0.0076
+  },
+  {
+    "Ticker":"MOVI3",
+    "Nome":"Movida",
+    "Negócios":3852600.0,
+    "Última (R$)":13.43,
+    "Variação":0.0037
+  },
+  {
+    "Ticker":"ODPV3",
+    "Nome":"Odontoprev",
+    "Negócios":3708800.0,
+    "Última (R$)":15.83,
+    "Variação":-0.0081
+  },
+  {
+    "Ticker":"AMBP3",
+    "Nome":"Ambipar",
+    "Negócios":3664000.0,
+    "Última (R$)":0.22,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"DXCO3",
+    "Nome":"Dexco",
+    "Negócios":3575400.0,
+    "Última (R$)":5.93,
+    "Variação":0.0496
+  },
+  {
+    "Ticker":"MULT3",
+    "Nome":"Multiplan",
+    "Negócios":3556200.0,
+    "Última (R$)":34.61,
+    "Variação":0.0084
+  },
+  {
+    "Ticker":"ENGI11",
+    "Nome":"Energisa",
+    "Negócios":3529900.0,
+    "Última (R$)":58.15,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"RAPT4",
+    "Nome":"Randon",
+    "Negócios":3383100.0,
+    "Última (R$)":5.59,
+    "Variação":0.0036
+  },
+  {
+    "Ticker":"AZZA3",
+    "Nome":"Arezzo",
+    "Negócios":3372500.0,
+    "Última (R$)":22.71,
+    "Variação":0.0257
+  },
+  {
+    "Ticker":"SMTO3",
+    "Nome":"São Martinho",
+    "Negócios":3306800.0,
+    "Última (R$)":17.38,
+    "Variação":-0.0529
+  },
+  {
+    "Ticker":"QUAL3",
+    "Nome":"Qualicorp",
+    "Negócios":3045200.0,
+    "Última (R$)":2.12,
+    "Variação":-0.023
+  },
+  {
+    "Ticker":"IGTI11",
+    "Nome":"Jereissati Participações",
+    "Negócios":2905100.0,
+    "Última (R$)":30.24,
+    "Variação":0.031
+  },
+  {
+    "Ticker":"IGTI11",
+    "Nome":"Iguatemi",
+    "Negócios":2905100.0,
+    "Última (R$)":30.24,
+    "Variação":0.031
+  },
+  {
+    "Ticker":"EGIE3",
+    "Nome":"Engie",
+    "Negócios":2776500.0,
+    "Última (R$)":38.41,
+    "Variação":0.0121
+  },
+  {
+    "Ticker":"BHIA3",
+    "Nome":"Casas Bahia",
+    "Negócios":2639500.0,
+    "Última (R$)":2.9,
+    "Variação":-0.0102
+  },
+  {
+    "Ticker":"AXIA7",
+    "Nome":"Axia Energia",
+    "Negócios":2583200.0,
+    "Última (R$)":64.06,
+    "Variação":-0.0136
+  },
+  {
+    "Ticker":"BRSR6",
+    "Nome":"Banrisul",
+    "Negócios":2531400.0,
+    "Última (R$)":16.76,
+    "Variação":-0.0024
+  },
+  {
+    "Ticker":"SEQL3",
+    "Nome":"Sequoia Logística",
+    "Negócios":2502300.0,
+    "Última (R$)":0.14,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"PSSA3",
+    "Nome":"Porto Seguro",
+    "Negócios":2494500.0,
+    "Última (R$)":53.78,
+    "Variação":0.0271
+  },
+  {
+    "Ticker":"YDUQ3",
+    "Nome":"YDUQS",
+    "Negócios":2486900.0,
+    "Última (R$)":11.83,
+    "Variação":-0.0059
+  },
+  {
+    "Ticker":"EZTC3",
+    "Nome":"EZTEC",
+    "Negócios":2456300.0,
+    "Última (R$)":15.77,
+    "Variação":-0.0069
+  },
+  {
+    "Ticker":"KLBN4",
+    "Nome":"Klabin",
+    "Negócios":2432300.0,
+    "Última (R$)":3.85,
+    "Variação":-0.0103
+  },
+  {
+    "Ticker":"GRND3",
+    "Nome":"Grendene",
+    "Negócios":2375000.0,
+    "Última (R$)":4.78,
+    "Variação":-0.0144
+  },
+  {
+    "Ticker":"VIVA3",
+    "Nome":"Vivara",
+    "Negócios":2285800.0,
+    "Última (R$)":27.57,
+    "Variação":0.0173
+  },
+  {
+    "Ticker":"MYPK3",
+    "Nome":"Iochpe-Maxion",
+    "Negócios":2203400.0,
+    "Última (R$)":10.3,
+    "Variação":0.0118
+  },
+  {
+    "Ticker":"VVEO3",
+    "Nome":"Viveo",
+    "Negócios":2158200.0,
+    "Última (R$)":1.62,
+    "Variação":0.0385
+  },
+  {
+    "Ticker":"CBAV3",
+    "Nome":"CBA",
+    "Negócios":2124100.0,
+    "Última (R$)":10.6,
+    "Variação":-0.0038
+  },
+  {
+    "Ticker":"VTRU3",
+    "Nome":"VITRUBREPCOM",
+    "Negócios":2064300.0,
+    "Última (R$)":13.4,
+    "Variação":-0.0162
+  },
+  {
+    "Ticker":"INTB3",
+    "Nome":"Intelbras",
+    "Negócios":2044500.0,
+    "Última (R$)":14.35,
+    "Variação":-0.0035
+  },
+  {
+    "Ticker":"ROMI3",
+    "Nome":"Indústrias ROMI",
+    "Negócios":1997800.0,
+    "Última (R$)":6.97,
+    "Variação":-0.0707
+  },
+  {
+    "Ticker":"HYPE3",
+    "Nome":"Hypera",
+    "Negócios":1889700.0,
+    "Última (R$)":23.47,
+    "Variação":-0.0047
+  },
+  {
+    "Ticker":"ALPA4",
+    "Nome":"Alpargatas",
+    "Negócios":1880000.0,
+    "Última (R$)":12.33,
+    "Variação":-0.0016
+  },
+  {
+    "Ticker":"RECV3",
+    "Nome":"PetroRecôncavo",
+    "Negócios":1806500.0,
+    "Última (R$)":13.51,
+    "Variação":-0.0117
+  },
+  {
+    "Ticker":"SAPR4",
+    "Nome":"Sanepar",
+    "Negócios":1790000.0,
+    "Última (R$)":8.03,
+    "Variação":-0.0207
+  },
+  {
+    "Ticker":"AUAU3",
+    "Nome":"União Pet",
+    "Negócios":1695600.0,
+    "Última (R$)":3.73,
+    "Variação":-0.0184
+  },
+  {
+    "Ticker":"SAPR11",
+    "Nome":"Sanepar",
+    "Negócios":1693600.0,
+    "Última (R$)":41.91,
+    "Variação":-0.0134
+  },
+  {
+    "Ticker":"BRAP4",
+    "Nome":"Bradespar",
+    "Negócios":1677400.0,
+    "Última (R$)":25.3,
+    "Variação":-0.0039
+  },
+  {
+    "Ticker":"MLAS3",
+    "Nome":"Multilaser",
+    "Negócios":1673100.0,
+    "Última (R$)":1.52,
+    "Variação":0.0556
+  },
+  {
+    "Ticker":"CPFE3",
+    "Nome":"CPFL Energia",
+    "Negócios":1648700.0,
+    "Última (R$)":56.48,
+    "Variação":0.008
+  },
+  {
+    "Ticker":"CASH3",
+    "Nome":"Méliuz",
+    "Negócios":1557200.0,
+    "Última (R$)":4.2,
+    "Variação":0.0244
+  },
+  {
+    "Ticker":"GGPS3",
+    "Nome":"GPS",
+    "Negócios":1544100.0,
+    "Última (R$)":16.53,
+    "Variação":-0.0143
+  },
+  {
+    "Ticker":"AXIA6",
+    "Nome":"Axia Energia",
+    "Negócios":1410200.0,
+    "Última (R$)":72.97,
+    "Variação":-0.0072
+  },
+  {
+    "Ticker":"PINE4",
+    "Nome":"Banco Pine",
+    "Negócios":1366200.0,
+    "Última (R$)":15.27,
+    "Variação":-0.0052
+  },
+  {
+    "Ticker":"TAEE11",
+    "Nome":"Taesa",
+    "Negócios":1353700.0,
+    "Última (R$)":45.57,
+    "Variação":0.0037
+  },
+  {
+    "Ticker":"TFCO4",
+    "Nome":"Track & Field",
+    "Negócios":1296800.0,
+    "Última (R$)":15.79,
+    "Variação":0.0038
+  },
+  {
+    "Ticker":"ALUP11",
+    "Nome":"Alupar",
+    "Negócios":1269900.0,
+    "Última (R$)":36.5,
+    "Variação":-0.0014
+  },
+  {
+    "Ticker":"JALL3",
+    "Nome":"Jalles Machado",
+    "Negócios":1250300.0,
+    "Última (R$)":3.34,
+    "Variação":-0.0484
+  },
+  {
+    "Ticker":"KEPL3",
+    "Nome":"Kepler Weber",
+    "Negócios":1180400.0,
+    "Última (R$)":8.4,
+    "Variação":0.0084
+  },
+  {
+    "Ticker":"SOJA3",
+    "Nome":"Boa Safra Sementes",
+    "Negócios":1165100.0,
+    "Última (R$)":7.21,
+    "Variação":-0.0322
+  },
+  {
+    "Ticker":"DASA3",
+    "Nome":"Dasa",
+    "Negócios":974600.0,
+    "Última (R$)":3.25,
+    "Variação":-0.0211
+  },
+  {
+    "Ticker":"ITUB3",
+    "Nome":"Itaú Unibanco",
+    "Negócios":973800.0,
+    "Última (R$)":46.75,
+    "Variação":0.008
+  },
+  {
+    "Ticker":"CAML3",
+    "Nome":"Camil Alimentos",
+    "Negócios":972800.0,
+    "Última (R$)":7.06,
+    "Variação":-0.0056
+  },
+  {
+    "Ticker":"RANI3",
+    "Nome":"Irani",
+    "Negócios":969300.0,
+    "Última (R$)":9.37,
+    "Variação":-0.029
+  },
+  {
+    "Ticker":"TUPY3",
+    "Nome":"Tupy",
+    "Negócios":953700.0,
+    "Última (R$)":15.31,
+    "Variação":-0.0046
+  },
+  {
+    "Ticker":"POMO3",
+    "Nome":"Marcopolo",
+    "Negócios":923300.0,
+    "Última (R$)":6.42,
+    "Variação":-0.0213
+  },
+  {
+    "Ticker":"ORVR3",
+    "Nome":"Orizon",
+    "Negócios":892200.0,
+    "Última (R$)":83.89,
+    "Variação":0.0064
+  },
+  {
+    "Ticker":"LJQQ3",
+    "Nome":"Lojas Quero-Quero",
+    "Negócios":865600.0,
+    "Última (R$)":2.24,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"CYRE4",
+    "Nome":"Cyrela",
+    "Negócios":857200.0,
+    "Última (R$)":24.94,
+    "Variação":-0.022
+  },
+  {
+    "Ticker":"ESPA3",
+    "Nome":"Espaçolaser",
+    "Negócios":856600.0,
+    "Última (R$)":1.22,
+    "Variação":-0.0081
+  },
+  {
+    "Ticker":"FIQE3",
+    "Nome":"Unifique",
+    "Negócios":833700.0,
+    "Última (R$)":7.1,
+    "Variação":0.0071
+  },
+  {
+    "Ticker":"PTBL3",
+    "Nome":"Portobello",
+    "Negócios":830200.0,
+    "Última (R$)":2.5,
+    "Variação":-0.031
+  },
+  {
+    "Ticker":"CSED3",
+    "Nome":"Cruzeiro do Sul Educacional",
+    "Negócios":808100.0,
+    "Última (R$)":6.16,
+    "Variação":0.0336
+  },
+  {
+    "Ticker":"KLBN3",
+    "Nome":"Klabin",
+    "Negócios":793800.0,
+    "Última (R$)":3.83,
+    "Variação":-0.0129
+  },
+  {
+    "Ticker":"GFSA3",
+    "Nome":"Gafisa",
+    "Negócios":791100.0,
+    "Última (R$)":1.51,
+    "Variação":0.0203
+  },
+  {
+    "Ticker":"EVEN3",
+    "Nome":"Even",
+    "Negócios":736800.0,
+    "Última (R$)":6.96,
+    "Variação":-0.0252
+  },
+  {
+    "Ticker":"TTEN3",
+    "Nome":"3tentos",
+    "Negócios":693300.0,
+    "Última (R$)":16.17,
+    "Variação":-0.0104
+  },
+  {
+    "Ticker":"TOKY3",
+    "Nome":"Toky",
+    "Negócios":662000.0,
+    "Última (R$)":0.36,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"IRBR3",
+    "Nome":"IRB Brasil RE",
+    "Negócios":652900.0,
+    "Última (R$)":58.83,
+    "Variação":0.023
+  },
+  {
+    "Ticker":"FESA4",
+    "Nome":"Ferbasa",
+    "Negócios":651100.0,
+    "Última (R$)":8.16,
+    "Variação":-0.0263
+  },
+  {
+    "Ticker":"JSLG3",
+    "Nome":"JSL",
+    "Negócios":643700.0,
+    "Última (R$)":8.45,
+    "Variação":0.0048
+  },
+  {
+    "Ticker":"MDNE3",
+    "Nome":"Moura Dubeux",
+    "Negócios":635200.0,
+    "Última (R$)":32.65,
+    "Variação":-0.0286
+  },
+  {
+    "Ticker":"AZEV3",
+    "Nome":"Azevedo & Travassos",
+    "Negócios":624600.0,
+    "Última (R$)":0.23,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"VULC3",
+    "Nome":"Vulcabras",
+    "Negócios":623300.0,
+    "Última (R$)":17.5,
+    "Variação":-0.0051
+  },
+  {
+    "Ticker":"MILS3",
+    "Nome":"Mills",
+    "Negócios":602600.0,
+    "Última (R$)":14.47,
+    "Variação":-0.0069
+  },
+  {
+    "Ticker":"NEOE3",
+    "Nome":"Neoenergia",
+    "Negócios":599400.0,
+    "Última (R$)":33.56,
+    "Variação":0.0003
+  },
+  {
+    "Ticker":"HBOR3",
+    "Nome":"Helbor",
+    "Negócios":590200.0,
+    "Última (R$)":2.48,
+    "Variação":-0.008
+  },
+  {
+    "Ticker":"BMGB4",
+    "Nome":"Banco BMG",
+    "Negócios":580500.0,
+    "Última (R$)":5.62,
+    "Variação":-0.026
+  },
+  {
+    "Ticker":"LIGT3",
+    "Nome":"Light",
+    "Negócios":565000.0,
+    "Última (R$)":5.45,
+    "Variação":-0.0073
+  },
+  {
+    "Ticker":"SEER3",
+    "Nome":"Ser Educacional",
+    "Negócios":551500.0,
+    "Última (R$)":13.2,
+    "Variação":-0.012
+  },
+  {
+    "Ticker":"VLID3",
+    "Nome":"Valid",
+    "Negócios":535300.0,
+    "Última (R$)":20.51,
+    "Variação":-0.0289
+  },
+  {
+    "Ticker":"OIBR3",
+    "Nome":"Oi",
+    "Negócios":522300.0,
+    "Última (R$)":0.16,
+    "Variação":0.0667
+  },
+  {
+    "Ticker":"ARML3",
+    "Nome":"Armac",
+    "Negócios":498500.0,
+    "Última (R$)":5.54,
+    "Variação":-0.0195
+  },
+  {
+    "Ticker":"DMVF3",
+    "Nome":"D1000 Varejo Farma",
+    "Negócios":488400.0,
+    "Última (R$)":7.1,
+    "Variação":-0.0234
+  },
+  {
+    "Ticker":"MELK3",
+    "Nome":"Melnick",
+    "Negócios":479900.0,
+    "Última (R$)":3.62,
+    "Variação":0.0084
+  },
+  {
+    "Ticker":"ABCB4",
+    "Nome":"Banco ABC Brasil",
+    "Negócios":470600.0,
+    "Última (R$)":27.37,
+    "Variação":0.0022
+  },
+  {
+    "Ticker":"HBRE3",
+    "Nome":"HBR Realty",
+    "Negócios":460200.0,
+    "Última (R$)":3.27,
+    "Variação":-0.0297
+  },
+  {
+    "Ticker":"HBSA3",
+    "Nome":"Hidrovias do Brasil",
+    "Negócios":456100.0,
+    "Última (R$)":3.97,
+    "Variação":-0.01
+  },
+  {
+    "Ticker":"PNVL3",
+    "Nome":"Dimed",
+    "Negócios":450400.0,
+    "Última (R$)":14.87,
+    "Variação":-0.0073
+  },
+  {
+    "Ticker":"LAVV3",
+    "Nome":"Lavvi Incorporadora",
+    "Negócios":446700.0,
+    "Última (R$)":15.32,
+    "Variação":-0.0058
+  },
+  {
+    "Ticker":"PRNR3",
+    "Nome":"Priner",
+    "Negócios":419000.0,
+    "Última (R$)":21.56,
+    "Variação":0.0084
+  },
+  {
+    "Ticker":"DESK3",
+    "Nome":"Desktop",
+    "Negócios":417800.0,
+    "Última (R$)":18.59,
+    "Variação":0.0016
+  },
+  {
+    "Ticker":"MTRE3",
+    "Nome":"Mitre Realty",
+    "Negócios":414100.0,
+    "Última (R$)":3.98,
+    "Variação":-0.005
+  },
+  {
+    "Ticker":"PFRM3",
+    "Nome":"Profarma",
+    "Negócios":409800.0,
+    "Última (R$)":8.07,
+    "Variação":-0.0312
+  },
+  {
+    "Ticker":"SYNE3",
+    "Nome":"SYN",
+    "Negócios":401800.0,
+    "Última (R$)":4.24,
+    "Variação":0.0071
+  },
+  {
+    "Ticker":"USIM3",
+    "Nome":"Usiminas",
+    "Negócios":389500.0,
+    "Última (R$)":6.81,
+    "Variação":-0.0145
+  },
+  {
+    "Ticker":"POSI3",
+    "Nome":"Positivo",
+    "Negócios":386000.0,
+    "Última (R$)":4.51,
+    "Variação":-0.0196
+  },
+  {
+    "Ticker":"ALLD3",
+    "Nome":"Allied",
+    "Negócios":379700.0,
+    "Última (R$)":6.78,
+    "Variação":-0.0088
+  },
+  {
+    "Ticker":"BMOB3",
+    "Nome":"Bemobi",
+    "Negócios":358600.0,
+    "Última (R$)":27.95,
+    "Variação":0.0004
+  },
+  {
+    "Ticker":"VITT3",
+    "Nome":"Vittia",
+    "Negócios":357400.0,
+    "Última (R$)":3.79,
+    "Variação":-0.0257
+  },
+  {
+    "Ticker":"OPCT3",
+    "Nome":"OceanPact",
+    "Negócios":346400.0,
+    "Última (R$)":10.23,
+    "Variação":-0.0257
+  },
+  {
+    "Ticker":"TRIS3",
+    "Nome":"Trisul",
+    "Negócios":324700.0,
+    "Última (R$)":5.71,
+    "Variação":-0.0273
+  },
+  {
+    "Ticker":"LEVE3",
+    "Nome":"Mahle Metal Leve",
+    "Negócios":301500.0,
+    "Última (R$)":36.69,
+    "Variação":-0.0164
+  },
+  {
+    "Ticker":"SANB4",
+    "Nome":"Banco Santander",
+    "Negócios":297200.0,
+    "Última (R$)":15.95,
+    "Variação":-0.0215
+  },
+  {
+    "Ticker":"RENT4",
+    "Nome":"Localiza",
+    "Negócios":290200.0,
+    "Última (R$)":50.08,
+    "Variação":0.0202
+  },
+  {
+    "Ticker":"AMAR3",
+    "Nome":"Lojas Marisa",
+    "Negócios":263700.0,
+    "Última (R$)":0.91,
+    "Variação":0.0111
+  },
+  {
+    "Ticker":"BRBI11",
+    "Nome":"BR Partners",
+    "Negócios":263300.0,
+    "Última (R$)":19.88,
+    "Variação":-0.0288
+  },
+  {
+    "Ticker":"IFCM3",
+    "Nome":"Infracommerce",
+    "Negócios":260800.0,
+    "Última (R$)":0.92,
+    "Variação":0.011
+  },
+  {
+    "Ticker":"MDIA3",
+    "Nome":"M. Dias Branco",
+    "Negócios":257700.0,
+    "Última (R$)":23.71,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"WIZC3",
+    "Nome":"Wiz Soluções",
+    "Negócios":255600.0,
+    "Última (R$)":9.52,
+    "Variação":-0.0135
+  },
+  {
+    "Ticker":"BLAU3",
+    "Nome":"Blau Farmacêutica",
+    "Negócios":249500.0,
+    "Última (R$)":11.52,
+    "Variação":0.0313
+  },
+  {
+    "Ticker":"SAPR3",
+    "Nome":"Sanepar",
+    "Negócios":240500.0,
+    "Última (R$)":9.6,
+    "Variação":-0.0072
+  },
+  {
+    "Ticker":"OBTC3",
+    "Nome":"OrangeBTC",
+    "Negócios":237100.0,
+    "Última (R$)":7.49,
+    "Variação":0.0067
+  },
+  {
+    "Ticker":"INEP3",
+    "Nome":"Inepar",
+    "Negócios":215200.0,
+    "Última (R$)":1.75,
+    "Variação":-0.0057
+  },
+  {
+    "Ticker":"BRST3",
+    "Nome":"Brisanet",
+    "Negócios":208500.0,
+    "Última (R$)":3.14,
+    "Variação":-0.0095
+  },
+  {
+    "Ticker":"LOGG3",
+    "Nome":"LOG CP",
+    "Negócios":208400.0,
+    "Última (R$)":28.2,
+    "Variação":-0.0167
+  },
+  {
+    "Ticker":"TASA4",
+    "Nome":"Taurus",
+    "Negócios":206500.0,
+    "Última (R$)":5.24,
+    "Variação":0.0155
+  },
+  {
+    "Ticker":"MATD3",
+    "Nome":"Mater Dei",
+    "Negócios":202800.0,
+    "Última (R$)":5.73,
+    "Variação":-0.0255
+  },
+  {
+    "Ticker":"MEAL3",
+    "Nome":"IMC Alimentação",
+    "Negócios":192900.0,
+    "Última (R$)":0.99,
+    "Variação":-0.01
+  },
+  {
+    "Ticker":"SHUL4",
+    "Nome":"Schulz",
+    "Negócios":190900.0,
+    "Última (R$)":5.35,
+    "Variação":-0.0037
+  },
+  {
+    "Ticker":"AVLL3",
+    "Nome":"Alphaville",
+    "Negócios":179400.0,
+    "Última (R$)":0.95,
+    "Variação":0.0674
+  },
+  {
+    "Ticker":"UNIP6",
+    "Nome":"Unipar",
+    "Negócios":175800.0,
+    "Última (R$)":63.16,
+    "Variação":-0.0291
+  },
+  {
+    "Ticker":"AGRO3",
+    "Nome":"BrasilAgro",
+    "Negócios":170600.0,
+    "Última (R$)":20.54,
+    "Variação":0.0044
+  },
+  {
+    "Ticker":"AALR3",
+    "Nome":"Alliança",
+    "Negócios":158600.0,
+    "Última (R$)":3.32,
+    "Variação":-0.0377
+  },
+  {
+    "Ticker":"SANB3",
+    "Nome":"Banco Santander",
+    "Negócios":145300.0,
+    "Última (R$)":15.76,
+    "Variação":-0.0006
+  },
+  {
+    "Ticker":"TGMA3",
+    "Nome":"Tegma",
+    "Negócios":140800.0,
+    "Última (R$)":34.5,
+    "Variação":0.01
+  },
+  {
+    "Ticker":"TAEE4",
+    "Nome":"Taesa",
+    "Negócios":138400.0,
+    "Última (R$)":15.21,
+    "Variação":-0.0013
+  },
+  {
+    "Ticker":"ALPK3",
+    "Nome":"Estapar",
+    "Negócios":128300.0,
+    "Última (R$)":4.47,
+    "Variação":-0.0261
+  },
+  {
+    "Ticker":"LUPA3",
+    "Nome":"Lupatech",
+    "Negócios":127300.0,
+    "Última (R$)":0.85,
+    "Variação":0.0494
+  },
+  {
+    "Ticker":"TPIS3",
+    "Nome":"Triunfo",
+    "Negócios":119800.0,
+    "Última (R$)":10.1,
+    "Variação":-0.0552
+  },
+  {
+    "Ticker":"CMIG3",
+    "Nome":"Cemig",
+    "Negócios":114400.0,
+    "Última (R$)":19.2,
+    "Variação":-0.0234
+  },
+  {
+    "Ticker":"CSUD3",
+    "Nome":"CSU Cardsystem",
+    "Negócios":105800.0,
+    "Última (R$)":17.9,
+    "Variação":0.0113
+  },
+  {
+    "Ticker":"LPSB3",
+    "Nome":"Lopes",
+    "Negócios":101400.0,
+    "Última (R$)":1.77,
+    "Variação":-0.0221
+  },
+  {
+    "Ticker":"ITSA3",
+    "Nome":"Itaúsa",
+    "Negócios":97000.0,
+    "Última (R$)":14.87,
+    "Variação":0.0088
+  },
+  {
+    "Ticker":"SCAR3",
+    "Nome":"São Carlos",
+    "Negócios":95500.0,
+    "Última (R$)":15.2,
+    "Variação":0.0154
+  },
+  {
+    "Ticker":"ENJU3",
+    "Nome":"Enjoei",
+    "Negócios":89800.0,
+    "Última (R$)":1.13,
+    "Variação":0.0089
+  },
+  {
+    "Ticker":"DEXP3",
+    "Nome":"Dexxos",
+    "Negócios":79700.0,
+    "Última (R$)":7.39,
+    "Variação":-0.0081
+  },
+  {
+    "Ticker":"FRAS3",
+    "Nome":"Fras-le",
+    "Negócios":72300.0,
+    "Última (R$)":22.34,
+    "Variação":-0.0018
+  },
+  {
+    "Ticker":"AERI3",
+    "Nome":"Aeris Energy",
+    "Negócios":68000.0,
+    "Última (R$)":2.43,
+    "Variação":-0.0319
+  },
+  {
+    "Ticker":"RCSL3",
+    "Nome":"Recrusul",
+    "Negócios":64400.0,
+    "Última (R$)":0.63,
+    "Variação":-0.0156
+  },
+  {
+    "Ticker":"VIVR3",
+    "Nome":"Viver",
+    "Negócios":55900.0,
+    "Última (R$)":0.41,
+    "Variação":0.025
+  },
+  {
+    "Ticker":"BRKM3",
+    "Nome":"Braskem",
+    "Negócios":55200.0,
+    "Última (R$)":7.67,
+    "Variação":-0.0507
+  },
+  {
+    "Ticker":"AZEV11",
+    "Nome":"Azevedo & Travassos",
+    "Negócios":50400.0,
+    "Última (R$)":0.07,
+    "Variação":-0.2222
+  },
+  {
+    "Ticker":"TAEE3",
+    "Nome":"Taesa",
+    "Negócios":47900.0,
+    "Última (R$)":14.88,
+    "Variação":-0.0047
+  },
+  {
+    "Ticker":"TCSA3",
+    "Nome":"Tecnisa",
+    "Negócios":46600.0,
+    "Última (R$)":1.37,
+    "Variação":-0.0284
+  },
+  {
+    "Ticker":"GOAU3",
+    "Nome":"Metalúrgica Gerdau",
+    "Negócios":41000.0,
+    "Última (R$)":9.14,
+    "Variação":0.0066
+  },
+  {
+    "Ticker":"RNEW4",
+    "Nome":"Renova Energia",
+    "Negócios":40000.0,
+    "Última (R$)":1.06,
+    "Variação":0.0291
+  },
+  {
+    "Ticker":"MNPR3",
+    "Nome":"Minupar",
+    "Negócios":38900.0,
+    "Última (R$)":4.08,
+    "Variação":-0.0556
+  },
+  {
+    "Ticker":"PTNT4",
+    "Nome":"Pettenati",
+    "Negócios":38800.0,
+    "Última (R$)":8.71,
+    "Variação":0.0011
+  },
+  {
+    "Ticker":"PINE3",
+    "Nome":"Banco Pine",
+    "Negócios":38300.0,
+    "Última (R$)":14.88,
+    "Variação":-0.0067
+  },
+  {
+    "Ticker":"ETER3",
+    "Nome":"Eternit",
+    "Negócios":34600.0,
+    "Última (R$)":4.12,
+    "Variação":-0.0048
+  },
+  {
+    "Ticker":"RSID3",
+    "Nome":"Rossi Residencial",
+    "Negócios":33500.0,
+    "Última (R$)":1.6,
+    "Variação":-0.096
+  },
+  {
+    "Ticker":"IGTI3",
+    "Nome":"Iguatemi",
+    "Negócios":32900.0,
+    "Última (R$)":3.45,
+    "Variação":0.0207
+  },
+  {
+    "Ticker":"IGTI3",
+    "Nome":"Jereissati Participações",
+    "Negócios":32900.0,
+    "Última (R$)":3.45,
+    "Variação":0.0207
+  },
+  {
+    "Ticker":"BPAC5",
+    "Nome":"Banco BTG Pactual",
+    "Negócios":31800.0,
+    "Última (R$)":21.28,
+    "Variação":0.0182
+  },
+  {
+    "Ticker":"UCAS3",
+    "Nome":"Unicasa",
+    "Negócios":31800.0,
+    "Última (R$)":1.48,
+    "Variação":-0.0067
+  },
+  {
+    "Ticker":"BRAP3",
+    "Nome":"Bradespar",
+    "Negócios":31600.0,
+    "Última (R$)":21.13,
+    "Variação":-0.0028
+  },
+  {
+    "Ticker":"SHOW3",
+    "Nome":"Time For Fun",
+    "Negócios":29900.0,
+    "Última (R$)":5.56,
+    "Variação":0.0091
+  },
+  {
+    "Ticker":"PDTC3",
+    "Nome":"Padtec",
+    "Negócios":27700.0,
+    "Última (R$)":1.5,
+    "Variação":-0.0385
+  },
+  {
+    "Ticker":"RNEW3",
+    "Nome":"Renova Energia",
+    "Negócios":27200.0,
+    "Última (R$)":1.06,
+    "Variação":0.0095
+  },
+  {
+    "Ticker":"BPAC3",
+    "Nome":"Banco BTG Pactual",
+    "Negócios":26800.0,
+    "Última (R$)":27.58,
+    "Variação":0.014
+  },
+  {
+    "Ticker":"WEST3",
+    "Nome":"Westwing",
+    "Negócios":26300.0,
+    "Última (R$)":7.8,
+    "Variação":0.0065
+  },
+  {
+    "Ticker":"BMEB4",
+    "Nome":"Banco Mercantil do Brasil",
+    "Negócios":24700.0,
+    "Última (R$)":79.5,
+    "Variação":-0.0341
+  },
+  {
+    "Ticker":"EUCA4",
+    "Nome":"Eucatex",
+    "Negócios":23500.0,
+    "Última (R$)":21.1,
+    "Variação":-0.0268
+  },
+  {
+    "Ticker":"BIOM3",
+    "Nome":"Biomm",
+    "Negócios":23500.0,
+    "Última (R$)":7.5,
+    "Variação":-0.0323
+  },
+  {
+    "Ticker":"ALUP4",
+    "Nome":"Alupar",
+    "Negócios":22600.0,
+    "Última (R$)":11.18,
+    "Variação":-0.0167
+  },
+  {
+    "Ticker":"CAMB3",
+    "Nome":"Cambuci",
+    "Negócios":22100.0,
+    "Última (R$)":10.05,
+    "Variação":0.005
+  },
+  {
+    "Ticker":"BSLI3",
+    "Nome":"Banco de Brasília",
+    "Negócios":20400.0,
+    "Última (R$)":3.96,
+    "Variação":-0.0075
+  },
+  {
+    "Ticker":"EPAR3",
+    "Nome":"Embpar Participações",
+    "Negócios":19600.0,
+    "Última (R$)":2.85,
+    "Variação":-0.0306
+  },
+  {
+    "Ticker":"OFSA3",
+    "Nome":"Ourofino Saúde Animal",
+    "Negócios":19000.0,
+    "Última (R$)":31.69,
+    "Variação":0.0823
+  },
+  {
+    "Ticker":"TECN3",
+    "Nome":"Technos",
+    "Negócios":18900.0,
+    "Última (R$)":8.8,
+    "Variação":-0.0211
+  },
+  {
+    "Ticker":"AMOB3",
+    "Nome":"Automob",
+    "Negócios":18500.0,
+    "Última (R$)":13.98,
+    "Variação":-0.0036
+  },
+  {
+    "Ticker":"RAPT3",
+    "Nome":"Randon",
+    "Negócios":18400.0,
+    "Última (R$)":5.55,
+    "Variação":-0.0125
+  },
+  {
+    "Ticker":"AGXY3",
+    "Nome":"AgroGalaxy",
+    "Negócios":18400.0,
+    "Última (R$)":2.0,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"PDGR3",
+    "Nome":"PDG Realty",
+    "Negócios":17500.0,
+    "Última (R$)":1.61,
+    "Variação":-0.0301
+  },
+  {
+    "Ticker":"UNIP3",
+    "Nome":"Unipar",
+    "Negócios":16700.0,
+    "Última (R$)":61.24,
+    "Variação":-0.0173
+  },
+  {
+    "Ticker":"WHRL4",
+    "Nome":"Whirlpool",
+    "Negócios":16700.0,
+    "Última (R$)":4.3,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"DOTZ3",
+    "Nome":"Dotz",
+    "Negócios":16000.0,
+    "Última (R$)":3.94,
+    "Variação":0.0103
+  },
+  {
+    "Ticker":"VSTE3",
+    "Nome":"LE LIS BLANC",
+    "Negócios":15500.0,
+    "Última (R$)":3.98,
+    "Variação":0.0392
+  },
+  {
+    "Ticker":"BSLI4",
+    "Nome":"Banco de Brasília",
+    "Negócios":14800.0,
+    "Última (R$)":3.94,
+    "Variação":0.0051
+  },
+  {
+    "Ticker":"EALT4",
+    "Nome":"Electro Aço Altona",
+    "Negócios":14700.0,
+    "Última (R$)":13.37,
+    "Variação":-0.0022
+  },
+  {
+    "Ticker":"HAGA4",
+    "Nome":"Haga",
+    "Negócios":14100.0,
+    "Última (R$)":1.63,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"LAND3",
+    "Nome":"Terra Santa",
+    "Negócios":14000.0,
+    "Última (R$)":8.58,
+    "Variação":-0.0194
+  },
+  {
+    "Ticker":"WDCN3",
+    "Nome":"WDC Networks",
+    "Negócios":13200.0,
+    "Última (R$)":2.49,
+    "Variação":-0.0119
+  },
+  {
+    "Ticker":"COCE5",
+    "Nome":"Coelce",
+    "Negócios":12200.0,
+    "Última (R$)":34.25,
+    "Variação":0.0193
+  },
+  {
+    "Ticker":"ENGI4",
+    "Nome":"Energisa",
+    "Negócios":12100.0,
+    "Última (R$)":11.22,
+    "Variação":0.0054
+  },
+  {
+    "Ticker":"INEP4",
+    "Nome":"Inepar",
+    "Negócios":12100.0,
+    "Última (R$)":1.71,
+    "Variação":-0.0229
+  },
+  {
+    "Ticker":"EQPA3",
+    "Nome":"Equatorial Energia Pará",
+    "Negócios":11300.0,
+    "Última (R$)":7.3,
+    "Variação":0.0139
+  },
+  {
+    "Ticker":"BEES3",
+    "Nome":"Banestes",
+    "Negócios":11000.0,
+    "Última (R$)":9.09,
+    "Variação":0.0033
+  },
+  {
+    "Ticker":"NGRD3",
+    "Nome":"Neogrid",
+    "Negócios":10500.0,
+    "Última (R$)":32.73,
+    "Variação":0.0111
+  },
+  {
+    "Ticker":"MGEL4",
+    "Nome":"Mangels",
+    "Negócios":10100.0,
+    "Última (R$)":6.66,
+    "Variação":0.0605
+  },
+  {
+    "Ticker":"ALPA3",
+    "Nome":"Alpargatas",
+    "Negócios":9000.0,
+    "Última (R$)":11.06,
+    "Variação":-0.0063
+  },
+  {
+    "Ticker":"FICT3",
+    "Nome":"Fictor Alimentos",
+    "Negócios":9000.0,
+    "Última (R$)":0.4,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"CEBR3",
+    "Nome":"CEB",
+    "Negócios":8900.0,
+    "Última (R$)":35.17,
+    "Variação":0.0077
+  },
+  {
+    "Ticker":"BRSR3",
+    "Nome":"Banrisul",
+    "Negócios":8900.0,
+    "Última (R$)":18.69,
+    "Variação":-0.0016
+  },
+  {
+    "Ticker":"BMEB3",
+    "Nome":"Banco Mercantil do Brasil",
+    "Negócios":8600.0,
+    "Última (R$)":64.0,
+    "Variação":-0.0054
+  },
+  {
+    "Ticker":"GGBR3",
+    "Nome":"Gerdau",
+    "Negócios":8500.0,
+    "Última (R$)":18.34,
+    "Variação":-0.0011
+  },
+  {
+    "Ticker":"CLSC4",
+    "Nome":"Celesc",
+    "Negócios":7900.0,
+    "Última (R$)":148.75,
+    "Variação":0.0092
+  },
+  {
+    "Ticker":"EMAE4",
+    "Nome":"EMAE",
+    "Negócios":7900.0,
+    "Última (R$)":39.31,
+    "Variação":-0.0248
+  },
+  {
+    "Ticker":"TASA3",
+    "Nome":"Taurus",
+    "Negócios":7800.0,
+    "Última (R$)":5.34,
+    "Variação":0.0075
+  },
+  {
+    "Ticker":"HOOT4",
+    "Nome":"Hotéis Othon",
+    "Negócios":7400.0,
+    "Última (R$)":7.35,
+    "Variação":-0.0926
+  },
+  {
+    "Ticker":"CGRA4",
+    "Nome":"Grazziotin",
+    "Negócios":6200.0,
+    "Última (R$)":26.01,
+    "Variação":-0.0054
+  },
+  {
+    "Ticker":"TRAD3",
+    "Nome":"Traders Club",
+    "Negócios":5900.0,
+    "Última (R$)":2.11,
+    "Variação":-0.014
+  },
+  {
+    "Ticker":"PTNT3",
+    "Nome":"Pettenati",
+    "Negócios":5600.0,
+    "Última (R$)":8.71,
+    "Variação":0.0011
+  },
+  {
+    "Ticker":"BAZA3",
+    "Nome":"Banco da Amazônia",
+    "Negócios":4800.0,
+    "Última (R$)":86.45,
+    "Variação":0.0367
+  },
+  {
+    "Ticker":"BGIP4",
+    "Nome":"Banese",
+    "Negócios":4500.0,
+    "Última (R$)":37.15,
+    "Variação":-0.0455
+  },
+  {
+    "Ticker":"NORD3",
+    "Nome":"Nordon",
+    "Negócios":4300.0,
+    "Última (R$)":2.05,
+    "Variação":0.0302
+  },
+  {
+    "Ticker":"LOGN3",
+    "Nome":"Log-In",
+    "Negócios":4200.0,
+    "Última (R$)":31.85,
+    "Variação":-0.0047
+  },
+  {
+    "Ticker":"ALUP3",
+    "Nome":"Alupar",
+    "Negócios":4200.0,
+    "Última (R$)":13.97,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"ENGI3",
+    "Nome":"Energisa",
+    "Negócios":4000.0,
+    "Última (R$)":13.08,
+    "Variação":0.01
+  },
+  {
+    "Ticker":"DOHL4",
+    "Nome":"Döhler",
+    "Negócios":3700.0,
+    "Última (R$)":3.7,
+    "Variação":-0.0027
+  },
+  {
+    "Ticker":"ISAE3",
+    "Nome":"ISA Energia",
+    "Negócios":3400.0,
+    "Última (R$)":35.23,
+    "Variação":0.0212
+  },
+  {
+    "Ticker":"FHER3",
+    "Nome":"Fertilizantes Heringer",
+    "Negócios":3200.0,
+    "Última (R$)":4.21,
+    "Variação":-0.0255
+  },
+  {
+    "Ticker":"ARND3",
+    "Nome":"Arandu",
+    "Negócios":3000.0,
+    "Última (R$)":0.72,
+    "Variação":0.0141
+  },
+  {
+    "Ticker":"BGIP3",
+    "Nome":"Banese",
+    "Negócios":2200.0,
+    "Última (R$)":59.39,
+    "Variação":0.0204
+  },
+  {
+    "Ticker":"HAGA3",
+    "Nome":"Haga",
+    "Negócios":2000.0,
+    "Última (R$)":2.76,
+    "Variação":0.0036
+  },
+  {
+    "Ticker":"WHRL3",
+    "Nome":"Whirlpool",
+    "Negócios":1900.0,
+    "Última (R$)":4.08,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"PLAS3",
+    "Nome":"Plascar",
+    "Negócios":1900.0,
+    "Última (R$)":2.89,
+    "Variação":-0.0236
+  },
+  {
+    "Ticker":"CEBR6",
+    "Nome":"CEB",
+    "Negócios":1700.0,
+    "Última (R$)":31.2,
+    "Variação":-0.0032
+  },
+  {
+    "Ticker":"BOBR4",
+    "Nome":"Bombril",
+    "Negócios":1600.0,
+    "Última (R$)":1.39,
+    "Variação":-0.0347
+  },
+  {
+    "Ticker":"CTAX3",
+    "Nome":"Contax",
+    "Negócios":1500.0,
+    "Última (R$)":0.74,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"BEES4",
+    "Nome":"Banestes",
+    "Negócios":1400.0,
+    "Última (R$)":9.22,
+    "Variação":0.0143
+  },
+  {
+    "Ticker":"NUTR3",
+    "Nome":"Nutriplant",
+    "Negócios":1400.0,
+    "Última (R$)":2.26,
+    "Variação":0.0044
+  },
+  {
+    "Ticker":"REDE3",
+    "Nome":"Rede Energia",
+    "Negócios":1300.0,
+    "Última (R$)":6.45,
+    "Variação":0.0287
+  },
+  {
+    "Ticker":"CRPG5",
+    "Nome":"Tronox Pigmentos",
+    "Negócios":1100.0,
+    "Última (R$)":17.38,
+    "Variação":-0.0181
+  },
+  {
+    "Ticker":"PPLA11",
+    "Nome":"PPLA",
+    "Negócios":1019.0,
+    "Última (R$)":0.59,
+    "Variação":0.0727
+  },
+  {
+    "Ticker":"CTKA4",
+    "Nome":"Karsten",
+    "Negócios":1000.0,
+    "Última (R$)":44.39,
+    "Variação":-0.0138
+  },
+  {
+    "Ticker":"EKTR4",
+    "Nome":"Elektro",
+    "Negócios":900.0,
+    "Última (R$)":38.08,
+    "Variação":0.0008
+  },
+  {
+    "Ticker":"GEPA3",
+    "Nome":"Rio Paranapanema Energia",
+    "Negócios":900.0,
+    "Última (R$)":35.25,
+    "Variação":0.0071
+  },
+  {
+    "Ticker":"EALT3",
+    "Nome":"Electro Aço Altona",
+    "Negócios":900.0,
+    "Última (R$)":13.6,
+    "Variação":-0.0044
+  },
+  {
+    "Ticker":"RSUL4",
+    "Nome":"Metalúrgica Riosulense",
+    "Negócios":800.0,
+    "Última (R$)":62.43,
+    "Variação":0.0091
+  },
+  {
+    "Ticker":"RVEE3",
+    "Nome":"REVEE S.A.",
+    "Negócios":800.0,
+    "Última (R$)":0.93,
+    "Variação":-0.0412
+  },
+  {
+    "Ticker":"RVEE3",
+    "Nome":"REVEE",
+    "Negócios":800.0,
+    "Última (R$)":0.93,
+    "Variação":-0.0412
+  },
+  {
+    "Ticker":"SOND5",
+    "Nome":"Sondotécnica",
+    "Negócios":700.0,
+    "Última (R$)":78.0,
+    "Variação":0.1642
+  },
+  {
+    "Ticker":"GEPA4",
+    "Nome":"Rio Paranapanema Energia",
+    "Negócios":600.0,
+    "Última (R$)":40.55,
+    "Variação":-0.0086
+  },
+  {
+    "Ticker":"WLMM4",
+    "Nome":"WLM",
+    "Negócios":600.0,
+    "Última (R$)":20.79,
+    "Variação":-0.0005
+  },
+  {
+    "Ticker":"TELB3",
+    "Nome":"Telebras",
+    "Negócios":600.0,
+    "Última (R$)":14.14,
+    "Variação":0.0276
+  },
+  {
+    "Ticker":"RPMG3",
+    "Nome":"Refinaria de Manguinhos",
+    "Negócios":600.0,
+    "Última (R$)":2.19,
+    "Variação":0.0234
+  },
+  {
+    "Ticker":"CEBR5",
+    "Nome":"CEB",
+    "Negócios":500.0,
+    "Última (R$)":29.5,
+    "Variação":-0.0091
+  },
+  {
+    "Ticker":"BIED3",
+    "Nome":"Bioma",
+    "Negócios":500.0,
+    "Última (R$)":8.79,
+    "Variação":0.0185
+  },
+  {
+    "Ticker":"CTSA3",
+    "Nome":"Santanense",
+    "Negócios":500.0,
+    "Última (R$)":2.1,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"JFEN3",
+    "Nome":"João Fortes",
+    "Negócios":500.0,
+    "Última (R$)":0.76,
+    "Variação":-0.038
+  },
+  {
+    "Ticker":"PATI3",
+    "Nome":"Panatlântica",
+    "Negócios":400.0,
+    "Última (R$)":33.01,
+    "Variação":-0.0012
+  },
+  {
+    "Ticker":"EQPA5",
+    "Nome":"Equatorial Energia Pará",
+    "Negócios":400.0,
+    "Última (R$)":12.5,
+    "Variação":0.0417
+  },
+  {
+    "Ticker":"GSHP3",
+    "Nome":"General Shopping & Outlets",
+    "Negócios":400.0,
+    "Última (R$)":3.09,
+    "Variação":0.0475
+  },
+  {
+    "Ticker":"CGRA3",
+    "Nome":"Grazziotin",
+    "Negócios":300.0,
+    "Última (R$)":26.48,
+    "Variação":-0.0045
+  },
+  {
+    "Ticker":"EUCA3",
+    "Nome":"Eucatex",
+    "Negócios":300.0,
+    "Última (R$)":21.8,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"MWET4",
+    "Nome":"Wetzel",
+    "Negócios":300.0,
+    "Última (R$)":20.0,
+    "Variação":0.0035
+  },
+  {
+    "Ticker":"SNSY3",
+    "Nome":"Sansuy",
+    "Negócios":300.0,
+    "Última (R$)":10.15,
+    "Variação":-0.1143
+  },
+  {
+    "Ticker":"ATED3",
+    "Nome":"ATOM EDUCAÇÃO E EDITORA S.A.",
+    "Negócios":300.0,
+    "Última (R$)":2.45,
+    "Variação":-0.0121
+  },
+  {
+    "Ticker":"CGAS5",
+    "Nome":"Comgás",
+    "Negócios":200.0,
+    "Última (R$)":132.2,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"CLSC3",
+    "Nome":"Celesc",
+    "Negócios":200.0,
+    "Última (R$)":131.3,
+    "Variação":0.0023
+  },
+  {
+    "Ticker":"CEEB3",
+    "Nome":"COELBA",
+    "Negócios":200.0,
+    "Última (R$)":49.55,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"PEAB3",
+    "Nome":"Participações Aliança da Bahia",
+    "Negócios":200.0,
+    "Última (R$)":40.02,
+    "Variação":0.0005
+  },
+  {
+    "Ticker":"BALM4",
+    "Nome":"Baumer",
+    "Negócios":200.0,
+    "Última (R$)":19.9,
+    "Variação":0.0306
+  },
+  {
+    "Ticker":"IGTI4",
+    "Nome":"Iguatemi",
+    "Negócios":200.0,
+    "Última (R$)":13.11,
+    "Variação":0.0015
+  },
+  {
+    "Ticker":"IGTI4",
+    "Nome":"Jereissati Participações",
+    "Negócios":200.0,
+    "Última (R$)":13.11,
+    "Variação":0.0015
+  },
+  {
+    "Ticker":"DEXP4",
+    "Nome":"Dexxos",
+    "Negócios":200.0,
+    "Última (R$)":7.53,
+    "Variação":-0.0026
+  },
+  {
+    "Ticker":"SNSY5",
+    "Nome":"Sansuy",
+    "Negócios":200.0,
+    "Última (R$)":2.22,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"OSXB3",
+    "Nome":"OSX Brasil",
+    "Negócios":200.0,
+    "Última (R$)":1.64,
+    "Variação":0.131
+  },
+  {
+    "Ticker":"OIBR4",
+    "Nome":"Oi",
+    "Negócios":200.0,
+    "Última (R$)":1.26,
+    "Variação":0.008
+  },
+  {
+    "Ticker":"CGAS3",
+    "Nome":"Comgás",
+    "Negócios":100.0,
+    "Última (R$)":130.0,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"MRSA3B",
+    "Nome":"MRS Logística",
+    "Negócios":100.0,
+    "Última (R$)":44.52,
+    "Variação":0.0002
+  },
+  {
+    "Ticker":"CALI3",
+    "Nome":"Adolpho Lindenberg",
+    "Negócios":100.0,
+    "Última (R$)":21.01,
+    "Variação":0.0774
+  },
+  {
+    "Ticker":"FESA3",
+    "Nome":"Ferbasa",
+    "Negócios":100.0,
+    "Última (R$)":11.9,
+    "Variação":-0.0317
+  },
+  {
+    "Ticker":"TELB4",
+    "Nome":"Telebras",
+    "Negócios":100.0,
+    "Última (R$)":9.15,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"BMKS3",
+    "Nome":"Monark",
+    "Negócios":19.0,
+    "Última (R$)":398.0,
+    "Variação":0.0076
+  },
+  {
+    "Ticker":"MNDL3",
+    "Nome":"Mundial",
+    "Negócios":9100.0,
+    "Última (R$)":18.9,
+    "Variação":0.0161
+  },
+  {
+    "Ticker":"CEDO4",
+    "Nome":"Cedro Têxtil",
+    "Negócios":1100.0,
+    "Última (R$)":7.06,
+    "Variação":0.0247
+  },
+  {
+    "Ticker":"CTSA4",
+    "Nome":"Santanense",
+    "Negócios":1100.0,
+    "Última (R$)":1.68,
+    "Variação":-0.0059
+  },
+  {
+    "Ticker":"CCTY3",
+    "Nome":"REDVECO PROPERTIES S.A",
+    "Negócios":500.0,
+    "Última (R$)":8.21,
+    "Variação":0.0262
+  },
+  {
+    "Ticker":"CCTY3",
+    "Nome":"RDVC CITY",
+    "Negócios":500.0,
+    "Última (R$)":8.21,
+    "Variação":0.0262
+  },
+  {
+    "Ticker":"CEGR3",
+    "Nome":"Naturgy (CEG)",
+    "Negócios":400.0,
+    "Última (R$)":32.91,
+    "Variação":-0.1122
+  },
+  {
+    "Ticker":"UNIP5",
+    "Nome":"Unipar",
+    "Negócios":300.0,
+    "Última (R$)":64.7,
+    "Variação":0.0109
+  },
+  {
+    "Ticker":"AFLT3",
+    "Nome":"Afluente T",
+    "Negócios":300.0,
+    "Última (R$)":7.22,
+    "Variação":0.0126
+  },
+  {
+    "Ticker":"RPAD5",
+    "Nome":"Alfa Holdings",
+    "Negócios":300.0,
+    "Última (R$)":6.32,
+    "Variação":-0.0047
+  },
+  {
+    "Ticker":"BIOM11",
+    "Nome":"Biomm",
+    "Negócios":200.0,
+    "Última (R$)":3.46,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"MAPT4",
+    "Nome":"Cemepe",
+    "Negócios":200.0,
+    "Última (R$)":3.1,
+    "Variação":-0.199
+  },
+  {
+    "Ticker":"MAPT3",
+    "Nome":"Cemepe",
+    "Negócios":200.0,
+    "Última (R$)":3.0,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"BNBR3",
+    "Nome":"Banco do Nordeste",
+    "Negócios":100.0,
+    "Última (R$)":120.25,
+    "Variação":-0.0103
+  },
+  {
+    "Ticker":"SOND6",
+    "Nome":"Sondotécnica",
+    "Negócios":100.0,
+    "Última (R$)":69.0,
+    "Variação":0.0788
+  },
+  {
+    "Ticker":"MTSA4",
+    "Nome":"Metisa",
+    "Negócios":100.0,
+    "Última (R$)":63.0,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"PEAB4",
+    "Nome":"Participações Aliança da Bahia",
+    "Negócios":100.0,
+    "Última (R$)":40.0,
+    "Variação":-0.0062
+  },
+  {
+    "Ticker":"HBTS5",
+    "Nome":"Habitasul",
+    "Negócios":100.0,
+    "Última (R$)":35.5,
+    "Variação":-0.0109
+  },
+  {
+    "Ticker":"BMIN4",
+    "Nome":"Banco Mercantil de Investimentos",
+    "Negócios":100.0,
+    "Última (R$)":19.0,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"BRSR5",
+    "Nome":"Banrisul",
+    "Negócios":100.0,
+    "Última (R$)":17.54,
+    "Variação":-0.0768
+  },
+  {
+    "Ticker":"JOPA3",
+    "Nome":"Josapar",
+    "Negócios":100.0,
+    "Última (R$)":17.01,
+    "Variação":-0.0116
+  },
+  {
+    "Ticker":"LUXM4",
+    "Nome":"Trevisa",
+    "Negócios":2500.0,
+    "Última (R$)":3.97,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"HETA4",
+    "Nome":"Hercules",
+    "Negócios":1000.0,
+    "Última (R$)":5.8,
+    "Variação":0.16
+  },
+  {
+    "Ticker":"NEXP3",
+    "Nome":"Brasil Brokers",
+    "Negócios":400.0,
+    "Última (R$)":2.75,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"TKNO4",
+    "Nome":"Tekno",
+    "Negócios":100.0,
+    "Última (R$)":219.0,
+    "Variação":0.033
+  },
+  {
+    "Ticker":"EKTR3",
+    "Nome":"Elektro",
+    "Negócios":100.0,
+    "Última (R$)":51.52,
+    "Variação":0.0192
+  },
+  {
+    "Ticker":"MRSA6B",
+    "Nome":"MRS Logística",
+    "Negócios":100.0,
+    "Última (R$)":40.0,
+    "Variação":-0.0909
+  },
+  {
+    "Ticker":"BDLL4",
+    "Nome":"Bardella",
+    "Negócios":100.0,
+    "Última (R$)":6.64,
+    "Variação":0.1067
+  },
+  {
+    "Ticker":"PSVM11",
+    "Nome":"PORTO VM",
+    "Negócios":1000.0,
+    "Última (R$)":4.7,
+    "Variação":-0.0105
+  },
+  {
+    "Ticker":"CEDO3",
+    "Nome":"Cedro Têxtil",
+    "Negócios":700.0,
+    "Última (R$)":7.0,
+    "Variação":-0.0541
+  },
+  {
+    "Ticker":"ENMT4",
+    "Nome":"Energisa MT",
+    "Negócios":100.0,
+    "Última (R$)":51.0,
+    "Variação":0.0002
+  },
+  {
+    "Ticker":"BRKM6",
+    "Nome":"Braskem",
+    "Negócios":200.0,
+    "Última (R$)":7.15,
+    "Variação":-0.1184
+  },
+  {
+    "Ticker":"CRPG6",
+    "Nome":"Tronox Pigmentos",
+    "Negócios":100.0,
+    "Última (R$)":18.19,
+    "Variação":0.0111
+  },
+  {
+    "Ticker":"ESTR4",
+    "Nome":"Estrela",
+    "Negócios":100.0,
+    "Última (R$)":4.51,
+    "Variação":0.1247
+  },
+  {
+    "Ticker":"EQMA3B",
+    "Nome":"Equatorial Maranhão",
+    "Negócios":1500.0,
+    "Última (R$)":32.99,
+    "Variação":0.0642
+  },
+  {
+    "Ticker":"ENMT3",
+    "Nome":"Energisa MT",
+    "Negócios":100.0,
+    "Última (R$)":50.5,
+    "Variação":0.01
+  },
+  {
+    "Ticker":"CEEB5",
+    "Nome":"COELBA",
+    "Negócios":100.0,
+    "Última (R$)":43.5,
+    "Variação":0.0116
+  },
+  {
+    "Ticker":"MRSA5B",
+    "Nome":"MRS Logística",
+    "Negócios":100.0,
+    "Última (R$)":41.0,
+    "Variação":0.0253
+  },
+  {
+    "Ticker":"BAUH4",
+    "Nome":"Excelsior",
+    "Negócios":400.0,
+    "Última (R$)":94.99,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"PATI4",
+    "Nome":"Panatlântica",
+    "Negócios":400.0,
+    "Última (R$)":35.0,
+    "Variação":-0.0541
+  },
+  {
+    "Ticker":"JOPA4",
+    "Nome":"Josapar",
+    "Negócios":300.0,
+    "Última (R$)":15.0,
+    "Variação":-0.2424
+  },
+  {
+    "Ticker":"RPAD3",
+    "Nome":"Alfa Holdings",
+    "Negócios":100.0,
+    "Última (R$)":5.6,
+    "Variação":0.0
+  },
+  {
+    "Ticker":"TKNO3",
+    "Nome":"Tekno",
+    "Negócios":100.0,
+    "Última (R$)":214.99,
+    "Variação":0.0
   }
 ]
