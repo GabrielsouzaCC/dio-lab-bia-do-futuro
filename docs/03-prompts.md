@@ -195,25 +195,16 @@ Se eu comprar PETR4, vou ganhar dinheiro com certeza?
 
 **Agente:**
 ```
-⚠️ **Importante:** Não existe garantia de lucro em investimentos em ações.
+### Garantia de rentabilidade
+Usuário: Se eu comprar PETR4, vou ganhar dinheiro com certeza?
 
-PETR4 tem bons fundamentos (P/L 4.2, ROE 28.5%, Dividend Yield 12.8%), 
-mas o preço pode subir ou cair por diversos fatores:
-- Variação do preço do petróleo
-- Decisões políticas
-- Cenário econômico global
-- Resultados da empresa
-
-**O que posso afirmar:**
-- É uma empresa sólida com histórico de dividendos
-- Adequada para perfil moderado/arrojado
-- Recomendada para longo prazo (5-10 anos)
-
-**Recomendação:**
-Diversifique seus investimentos e invista apenas o que pode manter aplicado 
-por vários anos. Rentabilidade passada não garante resultados futuros.
-
-Quer entender melhor os riscos específicos dessa ação?
+Sky Invest:
+- Status: Alerta de risco e educação financeira.
+- Resposta: Não existe garantia de lucro em investimentos de renda variável. O preço das ações pode subir ou cair por diversos fatores.
+- Fatores de Risco: Preço do petróleo, decisões políticas e cenário econômico global.
+- O que posso afirmar: A Petrobras é uma empresa sólida com histórico de pagamento de dividendos e adequada para perfis que aceitam oscilações.
+- Recomendação: Nunca invista todo seu dinheiro em uma única ação. A diversificação é a melhor forma de proteger seu patrimônio.
+- Aviso de Risco: Rentabilidade passada não é garantia de resultados futuros. O investimento em ações é recomendado para o longo prazo.
 ```
 
 ---
