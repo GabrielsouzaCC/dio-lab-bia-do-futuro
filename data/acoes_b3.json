@@ -1,401 +1,137 @@
 [
   {
-    "Ticker":"MBRF3",
-    "Nome":"Marfrig",
-    "Negócios":98783600.0,
-    "Última (R$)":19.6,
-    "Variação":-0.1038
+    "ticker": "MBRF3",
+    "nome": "Marfrig",
+    "setor": "Alimentos",
+    "tipo": "acao",
+    "negocios": 98783600,
+    "preco": 19.6,
+    "variacao": -0.1038
   },
   {
-    "Ticker":"RDOR3",
-    "Nome":"Rede D'Or",
-    "Negócios":81869100.0,
-    "Última (R$)":40.0,
-    "Variação":-0.0568
+    "ticker": "RDOR3",
+    "nome": "Rede D'Or",
+    "setor": "Saúde",
+    "tipo": "acao",
+    "negocios": 81869100,
+    "preco": 40.0,
+    "variacao": -0.0568
   },
   {
-    "Ticker":"PETR4",
-    "Nome":"Petrobras",
-    "Negócios":61852100.0,
-    "Última (R$)":46.89,
-    "Variação":-0.0207
+    "ticker": "PETR4",
+    "nome": "Petrobras",
+    "setor": "Petróleo",
+    "tipo": "acao",
+    "negocios": 61852100,
+    "preco": 46.89,
+    "variacao": -0.0207
   },
   {
-    "Ticker":"B3SA3",
-    "Nome":"B3",
-    "Negócios":39081700.0,
-    "Última (R$)":19.84,
-    "Variação":0.0081
+    "ticker": "B3SA3",
+    "nome": "B3",
+    "setor": "Financeiro",
+    "tipo": "acao",
+    "negocios": 39081700,
+    "preco": 19.84,
+    "variacao": 0.0081
   },
   {
-    "Ticker":"BBDC4",
-    "Nome":"Banco Bradesco",
-    "Negócios":37389800.0,
-    "Última (R$)":20.8,
-    "Variação":0.001
+    "ticker": "BBDC4",
+    "nome": "Bradesco",
+    "setor": "Bancos",
+    "tipo": "acao",
+    "negocios": 37389800,
+    "preco": 20.8,
+    "variacao": 0.001
   },
   {
-    "Ticker":"BBAS3",
-    "Nome":"Banco do Brasil",
-    "Negócios":36240900.0,
-    "Última (R$)":24.4,
-    "Variação":-0.0386
+    "ticker": "BBAS3",
+    "nome": "Banco do Brasil",
+    "setor": "Bancos",
+    "tipo": "acao",
+    "negocios": 36240900,
+    "preco": 24.4,
+    "variacao": -0.0386
   },
   {
-    "Ticker":"COGN3",
-    "Nome":"Cogna",
-    "Negócios":30020200.0,
-    "Última (R$)":3.29,
-    "Variação":0.003
+    "ticker": "ITUB4",
+    "nome": "Itaú Unibanco",
+    "setor": "Bancos",
+    "tipo": "acao",
+    "negocios": 28907200,
+    "preco": 47.04,
+    "variacao": 0.011
   },
   {
-    "Ticker":"ITSA4",
-    "Nome":"Itaúsa",
-    "Negócios":29788400.0,
-    "Última (R$)":15.0,
-    "Variação":0.0115
+    "ticker": "VALE3",
+    "nome": "Vale",
+    "setor": "Mineração",
+    "tipo": "acao",
+    "negocios": 24527300,
+    "preco": 88.44,
+    "variacao": 0.0016
   },
   {
-    "Ticker":"ITUB4",
-    "Nome":"Itaú Unibanco",
-    "Negócios":28907200.0,
-    "Última (R$)":47.04,
-    "Variação":0.011
+    "ticker": "ABEV3",
+    "nome": "Ambev",
+    "setor": "Bebidas",
+    "tipo": "acao",
+    "negocios": 24739300,
+    "preco": 15.83,
+    "variacao": -0.0038
   },
   {
-    "Ticker":"ABEV3",
-    "Nome":"Ambev",
-    "Negócios":24739300.0,
-    "Última (R$)":15.83,
-    "Variação":-0.0038
+    "ticker": "WEGE3",
+    "nome": "WEG",
+    "setor": "Industrial",
+    "tipo": "acao",
+    "negocios": 14915400,
+    "preco": 49.96,
+    "variacao": -0.0374
   },
   {
-    "Ticker":"VALE3",
-    "Nome":"Vale",
-    "Negócios":24527300.0,
-    "Última (R$)":88.44,
-    "Variação":0.0016
+    "ticker": "MGLU3",
+    "nome": "Magazine Luiza",
+    "setor": "Varejo",
+    "tipo": "acao",
+    "negocios": 12868500,
+    "preco": 9.39,
+    "variacao": 0.0151
   },
   {
-    "Ticker":"ENEV3",
-    "Nome":"Eneva",
-    "Negócios":18499100.0,
-    "Última (R$)":27.27,
-    "Variação":0.0048
+    "ticker": "LREN3",
+    "nome": "Lojas Renner",
+    "setor": "Varejo",
+    "tipo": "acao",
+    "negocios": 12448800,
+    "preco": 15.6,
+    "variacao": -0.0045
   },
   {
-    "Ticker":"CSAN3",
-    "Nome":"Cosan",
-    "Negócios":17742600.0,
-    "Última (R$)":5.49,
-    "Variação":-0.0018
+    "ticker": "PRIO3",
+    "nome": "PetroRio",
+    "setor": "Petróleo",
+    "tipo": "acao",
+    "negocios": 11933800,
+    "preco": 63.19,
+    "variacao": -0.029
   },
   {
-    "Ticker":"CPLE3",
-    "Nome":"Copel",
-    "Negócios":17391100.0,
-    "Última (R$)":16.83,
-    "Variação":-0.0059
+    "ticker": "SUZB3",
+    "nome": "Suzano",
+    "setor": "Papel e Celulose",
+    "tipo": "acao",
+    "negocios": 11085200,
+    "preco": 47.83,
+    "variacao": -0.014
   },
   {
-    "Ticker":"CVCB3",
-    "Nome":"CVC",
-    "Negócios":17225100.0,
-    "Última (R$)":2.01,
-    "Variação":0.0203
-  },
-  {
-    "Ticker":"CMIG4",
-    "Nome":"Cemig",
-    "Negócios":16491900.0,
-    "Última (R$)":13.64,
-    "Variação":-0.0007
-  },
-  {
-    "Ticker":"PETR3",
-    "Nome":"Petrobras",
-    "Negócios":15626300.0,
-    "Última (R$)":51.5,
-    "Variação":-0.0194
-  },
-  {
-    "Ticker":"WEGE3",
-    "Nome":"WEG",
-    "Negócios":14915400.0,
-    "Última (R$)":49.96,
-    "Variação":-0.0374
-  },
-  {
-    "Ticker":"BEEF3",
-    "Nome":"Minerva",
-    "Negócios":14642700.0,
-    "Última (R$)":4.18,
-    "Variação":-0.0118
-  },
-  {
-    "Ticker":"EQTL3",
-    "Nome":"Equatorial Energia",
-    "Negócios":14546000.0,
-    "Última (R$)":45.35,
-    "Variação":0.0069
-  },
-  {
-    "Ticker":"VAMO3",
-    "Nome":"Grupo Vamos",
-    "Negócios":14204900.0,
-    "Última (R$)":4.29,
-    "Variação":0.019
-  },
-  {
-    "Ticker":"AXIA3",
-    "Nome":"Axia Energia",
-    "Negócios":14169200.0,
-    "Última (R$)":66.27,
-    "Variação":-0.0131
-  },
-  {
-    "Ticker":"VBBR3",
-    "Nome":"Vibra Energia",
-    "Negócios":13035400.0,
-    "Última (R$)":34.2,
-    "Variação":0.028
-  },
-  {
-    "Ticker":"BRAV3",
-    "Nome":"3R Petroleum",
-    "Negócios":12972200.0,
-    "Última (R$)":21.23,
-    "Variação":0.0038
-  },
-  {
-    "Ticker":"MGLU3",
-    "Nome":"Magazine Luiza",
-    "Negócios":12868500.0,
-    "Última (R$)":9.39,
-    "Variação":0.0151
-  },
-  {
-    "Ticker":"RAIZ4",
-    "Nome":"Raízen",
-    "Negócios":12690800.0,
-    "Última (R$)":0.57,
-    "Variação":-0.0172
-  },
-  {
-    "Ticker":"LREN3",
-    "Nome":"Lojas Renner",
-    "Negócios":12448800.0,
-    "Última (R$)":15.6,
-    "Variação":-0.0045
-  },
-  {
-    "Ticker":"GGBR4",
-    "Nome":"Gerdau",
-    "Negócios":12007400.0,
-    "Última (R$)":21.8,
-    "Variação":0.0093
-  },
-  {
-    "Ticker":"PRIO3",
-    "Nome":"PetroRio",
-    "Negócios":11933800.0,
-    "Última (R$)":63.19,
-    "Variação":-0.029
-  },
-  {
-    "Ticker":"USIM5",
-    "Nome":"Usiminas",
-    "Negócios":11906900.0,
-    "Última (R$)":6.98,
-    "Variação":-0.0071
-  },
-  {
-    "Ticker":"ASAI3",
-    "Nome":"Assaí",
-    "Negócios":11454700.0,
-    "Última (R$)":10.16,
-    "Variação":0.001
-  },
-  {
-    "Ticker":"POMO4",
-    "Nome":"Marcopolo",
-    "Negócios":11371000.0,
-    "Última (R$)":6.85,
-    "Variação":-0.013
-  },
-  {
-    "Ticker":"SUZB3",
-    "Nome":"Suzano",
-    "Negócios":11085200.0,
-    "Última (R$)":47.83,
-    "Variação":-0.014
-  },
-  {
-    "Ticker":"HAPV3",
-    "Nome":"Hapvida",
-    "Negócios":10972400.0,
-    "Última (R$)":12.65,
-    "Variação":-0.0307
-  },
-  {
-    "Ticker":"BBSE3",
-    "Nome":"BB Seguridade",
-    "Negócios":10954300.0,
-    "Última (R$)":35.05,
-    "Variação":-0.019
-  },
-  {
-    "Ticker":"PLPL3",
-    "Nome":"Plano&Plano",
-    "Negócios":10804100.0,
-    "Última (R$)":13.4,
-    "Variação":-0.029
-  },
-  {
-    "Ticker":"RAIL3",
-    "Nome":"Rumo",
-    "Negócios":10354300.0,
-    "Última (R$)":16.96,
-    "Variação":0.0024
-  },
-  {
-    "Ticker":"PCAR3",
-    "Nome":"Grupo Pão de Açúcar",
-    "Negócios":10104100.0,
-    "Última (R$)":2.31,
-    "Variação":-0.0723
-  },
-  {
-    "Ticker":"ONCO3",
-    "Nome":"Oncoclínicas",
-    "Negócios":9923500.0,
-    "Última (R$)":1.39,
-    "Variação":0.0775
-  },
-  {
-    "Ticker":"AMER3",
-    "Nome":"Americanas",
-    "Negócios":9634500.0,
-    "Última (R$)":7.4,
-    "Variação":0.0221
-  },
-  {
-    "Ticker":"MOTV3",
-    "Nome":"Motiva",
-    "Negócios":9410900.0,
-    "Última (R$)":17.58,
-    "Variação":0.0029
-  },
-  {
-    "Ticker":"ALOS3",
-    "Nome":"Allos",
-    "Negócios":9195800.0,
-    "Última (R$)":33.57,
-    "Variação":0.0081
-  },
-  {
-    "Ticker":"RADL3",
-    "Nome":"RaiaDrogasil",
-    "Negócios":9143900.0,
-    "Última (R$)":24.06,
-    "Variação":-0.0054
-  },
-  {
-    "Ticker":"RENT3",
-    "Nome":"Localiza",
-    "Negócios":8813300.0,
-    "Última (R$)":51.94,
-    "Variação":0.0186
-  },
-  {
-    "Ticker":"MRVE3",
-    "Nome":"MRV",
-    "Negócios":8773600.0,
-    "Última (R$)":7.82,
-    "Variação":-0.0114
-  },
-  {
-    "Ticker":"CSNA3",
-    "Nome":"Siderúrgica Nacional",
-    "Negócios":8756700.0,
-    "Última (R$)":6.64,
-    "Variação":0.0
-  },
-  {
-    "Ticker":"GMAT3",
-    "Nome":"Grupo Mateus",
-    "Negócios":8378400.0,
-    "Última (R$)":4.84,
-    "Variação":0.0041
-  },
-  {
-    "Ticker":"CEAB3",
-    "Nome":"C&A",
-    "Negócios":8263400.0,
-    "Última (R$)":13.2,
-    "Variação":-0.0008
-  },
-  {
-    "Ticker":"CXSE3",
-    "Nome":"Caixa Seguridade",
-    "Negócios":8220900.0,
-    "Última (R$)":18.86,
-    "Variação":-0.0455
-  },
-  {
-    "Ticker":"SBFG3",
-    "Nome":"Grupo SBF",
-    "Negócios":8112200.0,
-    "Última (R$)":12.98,
-    "Variação":0.0204
-  },
-  {
-    "Ticker":"BPAC11",
-    "Nome":"Banco BTG Pactual",
-    "Negócios":7588000.0,
-    "Última (R$)":64.33,
-    "Variação":0.0171
-  },
-  {
-    "Ticker":"ANIM3",
-    "Nome":"Ânima Educação",
-    "Negócios":7116200.0,
-    "Última (R$)":4.41,
-    "Variação":0.028
-  },
-  {
-    "Ticker":"CYRE3",
-    "Nome":"Cyrela",
-    "Negócios":7090000.0,
-    "Última (R$)":27.6,
-    "Variação":-0.0143
-  },
-  {
-    "Ticker":"GOAU4",
-    "Nome":"Metalúrgica Gerdau",
-    "Negócios":7072700.0,
-    "Última (R$)":9.51,
-    "Variação":-0.0021
-  },
-  {
-    "Ticker":"BRKM5",
-    "Nome":"Braskem",
-    "Negócios":6781800.0,
-    "Última (R$)":9.25,
-    "Variação":-0.058
-  },
-  {
-    "Ticker":"CMIN3",
-    "Nome":"CSN Mineração",
-    "Negócios":6683800.0,
-    "Última (R$)":5.01,
-    "Variação":-0.0118
-  },
-  {
-    "Ticker":"BBDC3",
-    "Nome":"Banco Bradesco",
-    "Negócios":6563500.0,
-    "Última (R$)":17.99,
-    "Variação":-0.0017
-  },
-  
+    "ticker": "HAPV3",
+    "nome": "Hapvida",
+    "setor": "Saúde",
+    "tipo": "acao",
+    "negocios": 10972400,
+    "preco": 12.65,
+    "variacao": -0.0307
+  }
+]
