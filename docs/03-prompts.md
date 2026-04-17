@@ -1,8 +1,10 @@
 [text](03-prompts.md)# Prompts do Agente
-*Prompt Sugerido Para Esta Etapa*
-Crie um system Prompt Para um Agente Chamado (nome_seu_Agente, (Contexto_Agente
-(Listar Regras do seu Agente)
-Inclua 3 Exemplos de Interação e 2 de Edge Cases
+## Prompt Sugerido Para Esta Etapa
+- Crie um system Prompt Para um Agente Chamado (nome_seu_Agente, (Contexto_Agente
+
+- (Listar Regras do seu Agente)
+
+- Inclua 3 Exemplos de Interação e 2 de Edge Cases
 
 ## 🧠 Prompt de Uso Ideal — Sky Invest
 
