@@ -198,7 +198,7 @@ Se eu comprar PETR4, vou ganhar dinheiro com certeza?
 ### Garantia de rentabilidade
 Usuário: Se eu comprar PETR4, vou ganhar dinheiro com certeza?
 
-Sky Invest:
+**Agente:**
 - Status: Alerta de risco e educação financeira.
 - Resposta: Não existe garantia de lucro em investimentos de renda variável. O preço das ações pode subir ou cair por diversos fatores.
 - Fatores de Risco: Preço do petróleo, decisões políticas e cenário econômico global.
@@ -239,12 +239,10 @@ Gostaria de conhecer essa abordagem de investimento?
 
 **Ajustes realizados nos prompts:**
 
-1. **Adicionado contexto de indicadores**: Incluí explicações de P/L, ROE e Dividend Yield diretamente no system prompt para respostas mais consistentes
+1. **Reforçado disclaimers**: Múltiplas camadas de avisos sobre riscos para evitar criar expectativas irreais
 
-2. **Reforçado disclaimers**: Múltiplas camadas de avisos sobre riscos para evitar criar expectativas irreais
+2. **Estruturação de respostas**: Definido formato padrão para recomendações (ticker, indicadores, justificativa, risco)
 
-3. **Estruturação de respostas**: Definido formato padrão para recomendações (ticker, indicadores, justificativa, risco)
+3. **Tratamento proativo de edge cases**: Preparado respostas para situações comuns que poderiam gerar alucinações
 
-4. **Tratamento proativo de edge cases**: Preparado respostas para situações comuns que poderiam gerar alucinações
-
-5. **Tom educativo**: Enfatizado explicações didáticas para empoderar o investidor, não apenas dar respostas prontas
+4. **Tom educativo**: Enfatizado explicações didáticas para empoderar o investidor, não apenas dar respostas prontas
