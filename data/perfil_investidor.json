@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "nome": "Investidor Conservador",
+    "nome": "Heleda",
     "perfil": "conservador",
     "idade": 45,
     "objetivo": "preservacao de capital",
@@ -17,7 +17,7 @@
   },
   {
     "id": 2,
-    "nome": "Investidor Moderado",
+    "nome": "waldir ",
     "perfil": "moderado",
     "idade": 30,
     "objetivo": "crescimento com seguranca",
@@ -33,7 +33,7 @@
   },
   {
     "id": 3,
-    "nome": "Investidor Arrojado",
+    "nome": "Felipe Santos",
     "perfil": "arrojado",
     "idade": 25,
     "objetivo": "alto crescimento",
