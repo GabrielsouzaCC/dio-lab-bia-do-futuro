@@ -19,19 +19,85 @@ Descreva se usou os arquivos da pasta `data`, por exemplo:
 
 ## Adaptações nos Dados
 
-**Arquivo criado: `acoes_b3.json`**
-- Contém 12 ações de diferentes setores da B3
-- Inclui indicadores: P/L, ROE, Dividend Yield, volatilidade
-- Classificação de risco e perfil indicado
-- Descrição resumida de cada empresa
+##  Adaptações nos Dados do Sky Invest
 
-**Arquivo adaptado: `perfil_investidor.json`**
-- Ajustado para perfil moderado interessado em ações
-- Adicionado capital disponível para investimento em ações
-- Incluído setores de interesse e horizonte de investimento
-- Metas focadas em construção de carteira e renda passiva
+Durante o desenvolvimento do projeto **Sky Invest**, todos os arquivos de dados foram criados ou adaptados com o objetivo de tornar o sistema mais realista, funcional e alinhado ao mercado financeiro.
 
 ---
+
+###  `acoes_b3.json`
+- Base criada com ações da B3  
+- Seleção de empresas de diferentes setores da economia  
+- Inclusão de indicadores financeiros:
+  - P/L (Preço/Lucro)  
+  - ROE (Retorno sobre Patrimônio)  
+  - Dividend Yield  
+  - Volatilidade  
+- Classificação de risco dos ativos  
+- Definição do perfil de investidor indicado  
+- Adição de descrição resumida de cada empresa  
+- Padronização dos campos para uso no sistema (ex: `preco`, `variacao`, `setor`)  
+
+---
+
+###  `perfil_investidor.json`
+- Estrutura adaptada para representar um investidor real  
+- Definição de perfil **moderado com foco em ações**  
+- Inclusão de capital disponível para investimento  
+- Adição de setores de interesse  
+- Definição de horizonte de investimento (curto, médio ou longo prazo)  
+- Inclusão de metas financeiras:
+  - construção de carteira  
+  - geração de renda passiva  
+- Ajustes para permitir recomendações personalizadas  
+
+---
+
+###  `transacoes.csv`
+- Criação de histórico financeiro mensal atualizado (2026)  
+- Registro de entradas e saídas financeiras  
+- Classificação por categorias (moradia, alimentação, transporte, etc.)  
+- Inclusão de identificador (`id`) para cada transação  
+- Adição de saldo acumulado após cada operação  
+- Padronização dos dados para análise automática  
+- Utilizado para cálculo da capacidade de investimento  
+
+---
+
+###  `historico_atendimento.csv`
+- Criação de histórico de interações do usuário com o sistema  
+- Registro dos canais de atendimento (chat, telefone, e-mail)  
+- Classificação dos temas abordados (ex: CDB, Tesouro Selic, suporte)  
+- Inclusão de resumo das interações  
+- Indicação se o atendimento foi resolvido  
+- Padronização dos dados para análise de comportamento  
+- Utilizado para personalização das recomendações  
+
+---
+
+###  `produtos_financeiros.json`
+- Criação de base de produtos financeiros (renda fixa e fundos)  
+- Inclusão de informações relevantes:
+  - nível de risco  
+  - rentabilidade  
+  - liquidez  
+  - prazo  
+  - tributação  
+- Definição de valor mínimo de investimento  
+- Indicação do perfil de investidor recomendado  
+- Estrutura preparada para recomendações automáticas e diversificação  
+
+---
+
+## Resultado
+
+Com essas adaptações, o **Sky Invest** passa a contar com uma base de dados estruturada que permite:
+
+-  Análises financeiras mais precisas  
+-  Personalização baseada no perfil do investidor  
+-  Cálculo da capacidade de investimento  
+-  Recomendações inteligentes de ativos e produtos  
+-  Simulação de um consultor financeiro automatizado  
 
 ## Estratégia de Integração
 
