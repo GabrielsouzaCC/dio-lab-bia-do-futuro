@@ -93,16 +93,64 @@ Com essas adaptações, o **Sky Invest** passa a contar com uma base de dados es
 ## Estratégia de Integração
 
 ### Como os dados são carregados?
-Os arquivos JSON e CSV são carregados no início da sessão do chatbot e formatados como contexto estruturado para o LLM. O agente tem acesso a:
-- Lista completa de ações disponíveis com todos os indicadores
-- Perfil detalhado do investidor (risco, objetivos, capital)
-- Histórico de transações para análise de padrão financeiro
+import json
+import pandas as pd
+import requests
+
+def carregar_json_url(url):
+    try:
+        return requests.get(url).json()
+    except:
+        print(f"Erro ao carregar {url}")
+        return None
+
+def carregar_csv_url(url):
+    try:
+        return pd.read_csv(url)
+    except:
+        print(f"Erro ao carregar {url}")
+        return None
+
+# 
+base = "https://raw.githubusercontent.com/GabrielsouzaCC/dio-lab-bia-do-futuro/main/data/"
+
+acoes_b3 = carregar_json_url(base + "acoes_b3.json")
+perfil_investidor = carregar_json_url(base + "perfil_investidor.json")
+produtos_financeiros = carregar_json_url(base + "produtos_financeiros.json")
+
+transacoes = carregar_csv_url(base + "transacoes.csv")
+historico_atendimento = carregar_csv_url(base + "historico_atendimento.csv")
+
+print("Ações:", "OK" if acoes_b3 else "Erro")
+print("Perfil:", "OK" if perfil_investidor else "Erro")
+print("Produtos:", "OK" if produtos_financeiros else "Erro")
+print("Transações:", "OK" if transacoes is not None else "Erro")
+print("Histórico:", "OK" if historico_atendimento is not None else "Erro")
 
 ### Como os dados são usados no prompt?
-**Estratégia híbrida:**
-- **System Prompt**: Contém regras, limitações e formato de resposta
-- **Context Injection**: Dados do perfil e ações são injetados no contexto de cada conversa
-- **Filtragem dinâmica**: Apenas ações compatíveis com o perfil são destacadas nas recomendações
+O **Sky Invest** usa dados reais da pasta `data/` para gerar recomendações financeiras.
+
+---
+
+###  Como funciona
+
+#### System Prompt
+Define as regras do sistema:
+- respeitar o perfil do investidor  
+- sugerir apenas investimentos compatíveis  
+
+#### Context Injection
+Os dados são carregados automaticamente:
+- `perfil_investidor.json` → dados do investidor  
+- `transacoes.csv` → saldo disponível  
+- `produtos_financeiros.json` → investimentos  
+- `acoes_b3.json` → ações  
+- `historico_atendimento.csv` → histórico  
+
+#### Filtragem
+O sistema seleciona:
+- produtos de acordo com o risco  
+- ações compatíveis com o perfil  
 
 ---
 
@@ -111,24 +159,27 @@ Os arquivos JSON e CSV são carregados no início da sessão do chatbot e format
 > Mostre um exemplo de como os dados são formatados para o agente.
 
 ```
-PERFIL DO INVESTIDOR:
-- Nome: João Silva
-- Perfil: Moderado
-- Capital disponível para ações: R$ 5.000,00
-- Horizonte: 5-10 anos
-- Setores de interesse: financeiro, tecnologia, energia
-- Objetivo: Construir carteira diversificada de ações
+##  Exemplo de Recomendação
 
-AÇÕES DISPONÍVEIS (compatíveis com perfil moderado):
-1. ITUB4 - Itaú Unibanco PN
-   - Setor: Financeiro | Risco: Baixo
-   - P/L: 7.8 | ROE: 18.5% | Dividend Yield: 5.2%
-   - Preço: R$ 28,90
+**Investidor:** Waldir Oliveira  
+**Perfil:** moderado  
+**Saldo:** R$ 2511.10  
 
-2. PETR4 - Petrobras PN
-   - Setor: Petróleo e Gás | Risco: Médio
-   - P/L: 4.2 | ROE: 28.5% | Dividend Yield: 12.8%
-   - Preço: R$ 38,50
+---
+
+###  Sugestões de investimento
+
+- Tesouro Selic  
+- CDB Liquidez Diária  
+- Fundo Multimercado  
+
+---
+
+###  Ações recomendadas
+
+- ITUB4  
+- PETR4  
+- VALE3  
 
 [...outras ações compatíveis]
 ```
