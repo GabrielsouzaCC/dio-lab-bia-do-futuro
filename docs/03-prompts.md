@@ -86,53 +86,41 @@ Abaixo estão três exemplos de como o **Sky Invest** processa as informações 
 
 ---
 
-### 🔹 Cenário 1: Recomendação para Perfil Conservador
-**Contexto:** Usuário possui R$ 10.000,00 de saldo e busca segurança.
+## Exemplos de Uso
 
-**Usuário:** > "Tenho 10 mil reais e não quero perder dinheiro. Onde coloco esse valor?"
+### 1. Perfil Conservador
+Usuário: Tenho R$ 1.000 e não quero correr riscos.
 
-**Sky Invest:**
-- Resumo do perfil: Conservador (Foco em preservação de capital).
-- Situação financeira: Saldo disponível de R$ 10.000,00 identificado em `transacoes.csv`.
-- Sugestões de investimento: * 100% em Renda Fixa: Tesouro SELIC ou CDB com liquidez diária (100% do CDI).
-- Sugestões de ações: Não recomendado para seu perfil no momento.
-- Explicação simples: Priorizamos a segurança. No Tesouro SELIC, seu dinheiro rende todos os dias com o menor risco do mercado brasileiro, ideal para quem está começando.
-- Aviso de risco: ⚠️ Embora seguro, a rentabilidade pode variar conforme a taxa básica de juros (Selic).
-
----
-
-### 🔹 Cenário 2: Diversificação para Perfil Moderado
-**Contexto:** Usuário já possui reserva e quer exposição à Bolsa (B3).
-
-**Usuário:**
-> "Já tenho minha reserva. Quero comprar algumas ações com meus R$ 5.000,00 disponíveis."
-
-**Sky Invest:**
-* **Resumo do perfil:** Moderado (Equilíbrio entre risco e retorno).
-* **Situação financeira:** Saldo de R$ 5.000,00 destinado a novos aportes.
-* **Sugestões de investimento:** * 70% em Renda Fixa (CDBs prefixados).
-    * 30% em Renda Variável (Ações estáveis).
-* **Sugestões de ações:** * **ITUB4 (Itaú):** Histórico sólido de dividendos e estabilidade.
-    * **EGIE3 (Engie):** Setor de energia, conhecido por ser defensivo.
-* **Explicação simples:** Como você é moderado, sugerimos ações de empresas "maduras" que pagam bons dividendos, reduzindo a volatilidade da sua carteira.
-* **Aviso de risco:** ⚠️ Ações são ativos de renda variável. O valor investido pode oscilar para baixo no curto prazo.
+Sky Invest:
+- Perfil: Conservador.
+- Sugestão: Tesouro Selic ou CDB 100% CDI.
+- Motivo: Segurança total e liquidez imediata.
+- Ações: Não recomendado para seu perfil.
+- Aviso de Risco: Baixo. Retorno atrelado à taxa básica de juros.
 
 ---
 
-### 🔹 Cenário 3: Estratégia para Perfil Arrojado
-**Contexto:** Usuário experiente buscando maximizar ganhos.
+### 2. Perfil Moderado
+Usuário: Tenho R$ 5.000 e aceito um pouco de oscilação por mais lucro.
 
-**Usuário:**
-> "Quero aproveitar a queda do mercado para lucrar. Tenho R$ 20.000,00."
+Sky Invest:
+- Perfil: Moderado.
+- Sugestão: 80% Renda Fixa e 20% Ações de Bancos.
+- Motivo: Equilíbrio entre proteção e ganho com dividendos.
+- Ações: Itaú (ITUB4) ou BB Seguridade (BBSE3).
+- Aviso de Risco: Médio. A parte em ações pode variar.
 
-**Sky Invest:**
-* **Resumo do perfil:** Arrojado (Busca por alta rentabilidade).
-* **Situação financeira:** Saldo disponível de R$ 20.000,00 em conta.
-* **Sugestões de investimento:** * Alocação em Ações de Crescimento (Small Caps) e ETFs.
-* **Sugestões de ações:** * **VALE3 (Vale):** Exposição a commodities e dólar.
-    * **WEGE3 (Weg):** Empresa com forte crescimento global e eficiência.
-* **Explicação simples:** Sua estratégia foca em empresas que podem se valorizar acima da média. Aproveitar janelas de queda exige estômago para a volatilidade, mas potencializa o retorno a longo prazo.
-* **Aviso de risco:** ⚠️ Este investimento possui alto risco de perda de capital no curto e médio prazo. Não utilize dinheiro destinado a gastos essenciais.
+---
+
+### 3. Perfil Arrojado
+Usuário: Tenho R$ 10.000 e quero maximizar meus ganhos na bolsa.
+
+Sky Invest:
+- Perfil: Arrojado.
+- Sugestão: Foco em Ações de Crescimento e Commodities.
+- Motivo: Busca por valorização acima da média no longo prazo.
+- Ações: Vale (VALE3) e Weg (WEGE3).
+- Aviso de Risco: Alto. Preços mudam diariamente; foco em longo prazo.
 ```
 
 ---
