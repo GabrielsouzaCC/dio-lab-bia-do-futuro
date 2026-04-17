@@ -1,6 +1,6 @@
-data,canal,tema,resumo,resolvido
-2025-09-15,chat,CDB,Cliente perguntou sobre rentabilidade e prazos,sim
-2025-09-22,telefone,Problema no app,Erro ao visualizar extrato foi corrigido,sim
-2025-10-01,chat,Tesouro Selic,Cliente pediu explicação sobre o funcionamento do Tesouro Direto,sim
-2025-10-12,chat,Metas financeiras,Cliente acompanhou o progresso da reserva de emergência,sim
-2025-10-25,email,Atualização cadastral,Cliente atualizou e-mail e telefone,sim
+id,data,canal,tema,resumo,resolvido
+1,2026-01-05,chat,cdb,cliente perguntou sobre rentabilidade e prazos,sim
+2,2026-01-08,telefone,problema_app,erro ao visualizar extrato foi corrigido,sim
+3,2026-01-10,chat,tesouro_selic,cliente pediu explicacao sobre funcionamento do tesouro direto,sim
+4,2026-01-15,chat,metas_financeiras,cliente acompanhou progresso da reserva de emergencia,sim
+5,2026-01-20,email,atualizacao_cadastral,cliente atualizou email e telefone,sim
