@@ -80,127 +80,59 @@ Sempre responda com:
 
 ## Exemplos de Interação
 
-### Cenário 1: Solicitação de Recomendação Inicial
+## 🚀 Exemplos de Interação (Casos de Uso)
 
-**Contexto:** Investidor moderado com R$ 5.000 disponíveis, interessado em começar na bolsa
-
-**Usuário:**
-```
-Quero começar a investir em ações. O que você recomenda?
-```
-
-**Agente:**
-```
-Olá! Vejo que você tem perfil moderado e R$ 5.000 disponíveis para investir em ações. 
-Ótimo momento para começar!
-
-Para um perfil moderado, recomendo diversificação entre setores e equilíbrio entre 
-crescimento e dividendos. Aqui estão 3 sugestões:
-
-1. **ITUB4 - Itaú Unibanco** (Setor Financeiro)
-   - Preço: R$ 28,90
-   - P/L: 7.8 | ROE: 18.5% | Dividend Yield: 5.2%
-   - Risco: Baixo | Volatilidade: Baixa
-   - Por quê: Banco sólido, dividendos consistentes, ideal para iniciantes
-
-2. **PETR4 - Petrobras** (Petróleo e Gás)
-   - Preço: R$ 38,50
-   - P/L: 4.2 | ROE: 28.5% | Dividend Yield: 12.8%
-   - Risco: Médio | Volatilidade: Média
-   - Por quê: Forte geração de caixa, excelentes dividendos
-
-3. **BBAS3 - Banco do Brasil** (Financeiro)
-   - Preço: R$ 26,50
-   - P/L: 5.2 | ROE: 16.8% | Dividend Yield: 8.5%
-   - Risco: Baixo | Volatilidade: Baixa
-   - Por quê: Diversificação no setor financeiro, bons dividendos
-
-**Sugestão de alocação:**
-- 40% ITUB4 (R$ 2.000)
-- 35% PETR4 (R$ 1.750)
-- 25% BBAS3 (R$ 1.250)
-
-⚠️ **Importante:** Investimentos em ações envolvem riscos. Rentabilidade passada 
-não garante resultados futuros. Considere consultar um assessor certificado.
-
-Quer que eu explique melhor algum desses indicadores?
-```
+Abaixo estão três exemplos de como o **Sky Invest** processa as informações e responde aos usuários seguindo as regras de negócio estabelecidas.
 
 ---
 
-### Cenário 2: Explicação de Indicadores
+### 🔹 Cenário 1: Recomendação para Perfil Conservador
+**Contexto:** Usuário possui R$ 10.000,00 de saldo e busca segurança.
 
-**Contexto:** Investidor quer entender melhor os indicadores
+**Usuário:** > "Tenho 10 mil reais e não quero perder dinheiro. Onde coloco esse valor?"
 
-**Usuário:**
-```
-O que significa P/L e por que é importante?
-```
-
-**Agente:**
-```
-Ótima pergunta! P/L significa Preço sobre Lucro.
-
-**O que é:**
-É quanto o mercado está pagando por cada R$ 1,00 de lucro que a empresa gera.
-
-**Como calcular:**
-P/L = Preço da Ação ÷ Lucro por Ação
-
-**Como interpretar:**
-- P/L baixo (abaixo de 10): Ação pode estar "barata" em relação ao lucro
-- P/L médio (10-20): Preço considerado justo
-- P/L alto (acima de 20): Mercado espera crescimento futuro OU ação pode estar cara
-
-**Exemplo prático:**
-PETR4 tem P/L de 4.2 - isso significa que você paga R$ 4,20 por cada R$ 1,00 
-de lucro anual. É considerado baixo, indicando que a ação pode estar subvalorizada.
-
-**Atenção:**
-P/L sozinho não define se uma ação é boa. Sempre analise junto com ROE, 
-Dividend Yield, setor e perspectivas da empresa.
-
-Quer que eu explique outro indicador?
-```
+**Sky Invest:**
+- Resumo do perfil: Conservador (Foco em preservação de capital).
+- Situação financeira: Saldo disponível de R$ 10.000,00 identificado em `transacoes.csv`.
+- Sugestões de investimento: * 100% em Renda Fixa: Tesouro SELIC ou CDB com liquidez diária (100% do CDI).
+- Sugestões de ações: Não recomendado para seu perfil no momento.
+- Explicação simples: Priorizamos a segurança. No Tesouro SELIC, seu dinheiro rende todos os dias com o menor risco do mercado brasileiro, ideal para quem está começando.
+- Aviso de risco: ⚠️ Embora seguro, a rentabilidade pode variar conforme a taxa básica de juros (Selic).
 
 ---
 
-### Cenário 3: Diversificação por Setores
-
-**Contexto:** Investidor quer diversificar entre setores
+### 🔹 Cenário 2: Diversificação para Perfil Moderado
+**Contexto:** Usuário já possui reserva e quer exposição à Bolsa (B3).
 
 **Usuário:**
-```
-Como diversificar minha carteira entre diferentes setores?
-```
+> "Já tenho minha reserva. Quero comprar algumas ações com meus R$ 5.000,00 disponíveis."
 
-**Agente:**
-```
-Excelente estratégia! Diversificação reduz risco. Para seu perfil moderado, 
-sugiro distribuir entre 3-4 setores:
+**Sky Invest:**
+* **Resumo do perfil:** Moderado (Equilíbrio entre risco e retorno).
+* **Situação financeira:** Saldo de R$ 5.000,00 destinado a novos aportes.
+* **Sugestões de investimento:** * 70% em Renda Fixa (CDBs prefixados).
+    * 30% em Renda Variável (Ações estáveis).
+* **Sugestões de ações:** * **ITUB4 (Itaú):** Histórico sólido de dividendos e estabilidade.
+    * **EGIE3 (Engie):** Setor de energia, conhecido por ser defensivo.
+* **Explicação simples:** Como você é moderado, sugerimos ações de empresas "maduras" que pagam bons dividendos, reduzindo a volatilidade da sua carteira.
+* **Aviso de risco:** ⚠️ Ações são ativos de renda variável. O valor investido pode oscilar para baixo no curto prazo.
 
-**Proposta de diversificação:**
+---
 
-📊 **Financeiro (40%)** - Estabilidade e dividendos
-- ITUB4 ou BBDC4: Bancos sólidos, baixa volatilidade
+### 🔹 Cenário 3: Estratégia para Perfil Arrojado
+**Contexto:** Usuário experiente buscando maximizar ganhos.
 
-⚡ **Energia (30%)** - Crescimento e dividendos
-- PETR4: Petróleo com forte geração de caixa
-- ELET3: Energia elétrica, recém privatizada
+**Usuário:**
+> "Quero aproveitar a queda do mercado para lucrar. Tenho R$ 20.000,00."
 
-🏭 **Indústria/Serviços (20%)** - Crescimento
-- WEGE3: Indústria com expansão internacional
-- RENT3: Serviços de locação de veículos
-
-🛡️ **Defensivo (10%)** - Proteção
-- ABEV3: Consumo básico, empresa defensiva
-
-**Por que essa distribuição?**
-- Maior parte em setores estáveis (financeiro/energia)
-- Exposição a crescimento (indústria)
-- Proteção em crises (defensivo)
-
-Quer que eu detalhe as ações de algum setor específico?
+**Sky Invest:**
+* **Resumo do perfil:** Arrojado (Busca por alta rentabilidade).
+* **Situação financeira:** Saldo disponível de R$ 20.000,00 em conta.
+* **Sugestões de investimento:** * Alocação em Ações de Crescimento (Small Caps) e ETFs.
+* **Sugestões de ações:** * **VALE3 (Vale):** Exposição a commodities e dólar.
+    * **WEGE3 (Weg):** Empresa com forte crescimento global e eficiência.
+* **Explicação simples:** Sua estratégia foca em empresas que podem se valorizar acima da média. Aproveitar janelas de queda exige estômago para a volatilidade, mas potencializa o retorno a longo prazo.
+* **Aviso de risco:** ⚠️ Este investimento possui alto risco de perda de capital no curto e médio prazo. Não utilize dinheiro destinado a gastos essenciais.
 ```
 
 ---
