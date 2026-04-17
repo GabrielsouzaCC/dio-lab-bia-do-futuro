@@ -1,11 +1,11 @@
 id,data,descricao,categoria,valor,tipo,saldo
 1,2026-01-01,Salario,receita,5000.00,entrada,5000.00
-2,2025-01-02,Aluguel,moradia,1200.00,saida,3800.00
-3,2025-01-03,Supermercado,alimentacao,450.00,saida,3350.00
-4,2025-01-05,Netflix,lazer,55.90,saida,3294.10
-5,2025-01-07,Farmacia,saude,89.00,saida,3205.10
-6,2025-01-10,Restaurante,alimentacao,120.00,saida,3085.10
-7,2025-01-12,Uber,transporte,45.00,saida,3040.10
-8,2025-01-15,Conta de Luz,moradia,180.00,saida,2860.10
-9,2025-01-20,Academia,saude,99.00,saida,2761.10
-10,2025-01-25,Combustivel,transporte,250.00,saida,2511.10
+2,2026-01-02,Aluguel,moradia,1200.00,saida,3800.00
+3,2026-01-03,Supermercado,alimentacao,450.00,saida,3350.00
+4,2026-01-05,Netflix,lazer,55.90,saida,3294.10
+5,2026-01-07,Farmacia,saude,89.00,saida,3205.10
+6,2026-01-10,Restaurante,alimentacao,120.00,saida,3085.10
+7,2026-01-12,Uber,transporte,45.00,saida,3040.10
+8,2026-01-15,Conta de Luz,moradia,180.00,saida,2860.10
+9,2026-01-20,Academia,saude,99.00,saida,2761.10
+10,2026-01-25,Combustivel,transporte,250.00,saida,2511.10
