@@ -26,31 +26,22 @@ Durante o desenvolvimento do projeto **Sky Invest**, todos os arquivos de dados 
 ---
 
 ###  `acoes_b3.json`
-- Base criada com ações da B3  
-- Seleção de empresas de diferentes setores da economia  
-- Inclusão de indicadores financeiros:
-  - P/L (Preço/Lucro)  
-  - ROE (Retorno sobre Patrimônio)  
-  - Dividend Yield  
-  - Volatilidade  
-- Classificação de risco dos ativos  
-- Definição do perfil de investidor indicado  
-- Adição de descrição resumida de cada empresa  
-- Padronização dos campos para uso no sistema (ex: `preco`, `variacao`, `setor`)  
+- Inclusão de dados de mercado:
+  - preço
+  - volume de negociações
+  - variação percentual
+- Classificação por setor econômico
+- Estrutura padronizada para análise no sistema
 
 ---
 
 ###  `perfil_investidor.json`
-- Estrutura adaptada para representar um investidor real  
-- Definição de perfil **moderado com foco em ações**  
-- Inclusão de capital disponível para investimento  
-- Adição de setores de interesse  
-- Definição de horizonte de investimento (curto, médio ou longo prazo)  
-- Inclusão de metas financeiras:
-  - construção de carteira  
-  - geração de renda passiva  
-- Ajustes para permitir recomendações personalizadas  
-
+- Estrutura com diferentes perfis de investidor (conservador, moderado e arrojado)  
+- Inclusão de dados como idade, renda mensal e valor disponível  
+- Definição de objetivo financeiro e prazo de investimento  
+- Classificação de tolerância ao risco  
+- Preferências de investimento (renda fixa, ações e fundos)  
+- Estrutura preparada para recomendações personalizadas  
 ---
 
 ###  `transacoes.csv`
@@ -96,9 +87,9 @@ Com essas adaptações, o **Sky Invest** passa a contar com uma base de dados es
 -  Análises financeiras mais precisas  
 -  Personalização baseada no perfil do investidor  
 -  Cálculo da capacidade de investimento  
--  Recomendações inteligentes de ativos e produtos  
--  Simulação de um consultor financeiro automatizado  
-
+-  Base preparada para recomendações de ativos e produtos  
+-  Estrutura para simulação de um consultor financeiro automatizado
+   
 ## Estratégia de Integração
 
 ### Como os dados são carregados?
