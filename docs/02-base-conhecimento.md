@@ -92,6 +92,8 @@ Com essas adaptações, o **Sky Invest** passa a contar com uma base de dados es
    
 ## Estratégia de Integração
 
+Para Simplificar Podemos "injetar" os Dados em Nosso Prompt, Garantidno Que o Agente Tenha o Melhor Contexto Possivel
+
 ### Como os dados são carregados?
 import json
 import pandas as pd
@@ -120,12 +122,6 @@ produtos_financeiros = carregar_json_url(base + "produtos_financeiros.json")
 
 transacoes = carregar_csv_url(base + "transacoes.csv")
 historico_atendimento = carregar_csv_url(base + "historico_atendimento.csv")
-
-print("Ações:", "OK" if acoes_b3 else "Erro")
-print("Perfil:", "OK" if perfil_investidor else "Erro")
-print("Produtos:", "OK" if produtos_financeiros else "Erro")
-print("Transações:", "OK" if transacoes is not None else "Erro")
-print("Histórico:", "OK" if historico_atendimento is not None else "Erro")
 
 ### Como os dados são usados no prompt?
 O **Sky Invest** usa dados reais da pasta `data/` para gerar recomendações financeiras.
