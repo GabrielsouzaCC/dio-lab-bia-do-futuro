@@ -1,8 +1,8 @@
-# 📈 BIA Investimentos - Agente Financeiro Inteligente
+#  BIA Investimentos - Agente Financeiro Inteligente
 
 > Consultora de investimentos em ações da B3 com IA Generativa
 
-## 🎯 Sobre o Projeto
+##  Sobre o Projeto
 
 A **BIA Investimentos** (B3 Investments Advisor) é uma agente financeira inteligente que ajuda investidores brasileiros a construir carteiras de ações alinhadas ao seu perfil de risco, utilizando análise fundamentalista e IA Generativa.
 
@@ -19,14 +19,14 @@ Investidores iniciantes e intermediários enfrentam dificuldades para:
 ### Solução
 
 Agente conversacional que:
-- ✅ Analisa perfil do investidor (conservador, moderado, arrojado)
-- ✅ Recomenda ações com base em indicadores fundamentalistas
-- ✅ Explica conceitos de forma didática
-- ✅ Sugere diversificação por setores
-- ✅ **Nunca alucina**: Só recomenda ativos da base de dados
-- ✅ **Sempre alerta sobre riscos**: Disclaimers obrigatórios
+-  Analisa perfil do investidor (conservador, moderado, arrojado)
+-  Recomenda ações com base em indicadores fundamentalistas
+-  Explica conceitos de forma didática
+-  Sugere diversificação por setores
+- **Nunca alucina**: Só recomenda ativos da base de dados
+-  **Sempre alerta sobre riscos**: Disclaimers obrigatórios
 
-## 🏗️ Arquitetura
+##  Arquitetura
 
 ```mermaid
 flowchart TD
@@ -41,7 +41,7 @@ flowchart TD
     B --> A
 ```
 
-## 📊 Base de Conhecimento
+##  Base de Conhecimento
 
 | Arquivo | Conteúdo |
 |---------|----------|
@@ -52,7 +52,7 @@ flowchart TD
 
 **Setores cobertos:** Financeiro, Energia, Mineração, Indústria, Consumo, Varejo, Serviços
 
-## 🚀 Como Usar
+##  Como Usar
 
 ### 1. Instalar dependências
 
@@ -107,11 +107,11 @@ Recomendo diversificação entre 3 ações:
    - P/L: 5.2 | ROE: 16.8% | DY: 8.5%
    - Por quê: Diversificação no setor financeiro
 
-⚠️ Importante: Investimentos em ações envolvem riscos.
+ Importante: Investimentos em ações envolvem riscos.
 Rentabilidade passada não garante resultados futuros.
 ```
 
-## 🛡️ Segurança e Anti-Alucinação
+##  Segurança e Anti-Alucinação
 
 ### Estratégias Implementadas
 
@@ -131,7 +131,7 @@ O agente **NÃO**:
 - ❌ Recomenda day trade
 - ❌ Analisa criptomoedas
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 dio-lab-bia-do-futuro/
@@ -157,14 +157,14 @@ dio-lab-bia-do-futuro/
 └── assets/                  # Recursos visuais
 ```
 
-## 🎓 Tecnologias
+##  Tecnologias
 
 - **Interface**: Streamlit
 - **LLMs**: OpenAI GPT-4, Anthropic Claude, Google Gemini, Ollama
 - **Dados**: JSON, CSV, Pandas
 - **Linguagem**: Python 3.8+
 
-## 📈 Métricas de Qualidade
+##  Métricas de Qualidade
 
 | Métrica | Resultado |
 |---------|-----------|
@@ -173,34 +173,16 @@ dio-lab-bia-do-futuro/
 | Coerência | ✅ Diversificação adequada por setor |
 | Didática | ✅ Explicações claras de indicadores |
 
-## 🎬 Pitch (3 minutos)
 
-**Problema:** Investidores iniciantes não sabem como começar na bolsa
 
-**Solução:** BIA Investimentos - consultora inteligente que educa e recomenda
-
-**Diferencial:** 
-- Educativo (não apenas reativo)
-- Seguro (anti-alucinação)
-- Personalizado (perfil + objetivos)
-
-**Impacto:** Democratiza acesso a consultoria de investimentos
-
-## 🔮 Próximos Passos
-
-- [ ] Integrar cotações em tempo real (Alpha Vantage API)
-- [ ] Adicionar análise de correlação entre ativos
-- [ ] Expandir para FIIs e Renda Fixa
-- [ ] Criar simulador de rentabilidade histórica
-
-## 📄 Licença
+##  Licença
 
 Projeto educacional - DIO (Digital Innovation One)
 
-## 👤 Autor
+##  Autor
 
 Desenvolvido como parte do desafio "Agente Financeiro Inteligente com IA Generativa" por Ramon Azevedo.
 
 ---
 
-⚠️ **Aviso Legal:** Este é um protótipo educacional. Não constitui recomendação de investimento. Consulte sempre um assessor financeiro certificado antes de investir.
+ **Aviso Legal:** Este é um protótipo educacional. Não constitui recomendação de investimento. Consulte sempre um assessor financeiro certificado antes de investir.
